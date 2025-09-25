@@ -39,9 +39,9 @@ ENV/
 scraper.log
 
 # Data files (optional - remove if you want to track CSV files)
-# data/*.csv
-# data/*.xlsx
-# data/*.png
+data/*.csv
+data/*.xlsx
+data/*.png
 
 # OS
 .DS_Store
