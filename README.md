@@ -26,7 +26,7 @@ To create a cleaned dataset by collecting the following information from Goodrea
 ### Scraping Specifications
 - ✅ **Pagination**
 - ✅ **Rate limiting** (1.5 seconds wait between requests)
-- ✅ **Hata yakalama ve logging**
+- ✅ **Debug and logging**
 - ✅ **robots.txt compliant** operations
 - ✅ **Data cleaning** and validation
 - ✅ **Progress tracking** (with tqdm)
