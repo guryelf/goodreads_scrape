@@ -1,0 +1,991 @@
+title,author,average_rating,ratings_count,reviews_count,book_url,rating_to_review_ratio
+"Harry Potter and the Philosopher’s Stone (Harry Potter, #1)",J.K. Rowling,4.47,11168453,1340214.3599999999,https://www.goodreads.com/book/show/42844155-harry-potter-and-the-philosopher-s-stone,8.333327115427181
+"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,4.47,11168453,1340214.3599999999,https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone,8.333327115427181
+"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,4.35,9691853,1163022.3599999999,https://www.goodreads.com/book/show/2767052-the-hunger-games,8.333326168100356
+"Twilight (The Twilight Saga, #1)",Stephenie Meyer,3.67,7180957,861714.84,https://www.goodreads.com/book/show/41865.Twilight,8.33332366270533
+To Kill a Mockingbird,Harper Lee,4.26,6747983,809757.96,https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird,8.333323042205054
+The Great Gatsby,F. Scott Fitzgerald,3.93,5787838,694540.5599999999,https://www.goodreads.com/book/show/4671.The_Great_Gatsby,8.333321335011256
+The Fault in Our Stars,John Green,4.12,5624557,674946.84,https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars,8.333320986700247
+1984,George Orwell,4.2,5301132,636135.84,https://www.goodreads.com/book/show/40961427-1984,8.333320233426507
+"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,4.58,4727636,567316.32,https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban,8.333318644317082
+Pride and Prejudice,Jane Austen,4.29,4688290,562594.7999999999,https://www.goodreads.com/book/show/1885.Pride_and_Prejudice,8.333318521041218
+"It Ends with Us (It Ends with Us, #1)",Colleen Hoover,4.09,4468690,536242.7999999999,https://www.goodreads.com/book/show/27362503-it-ends-with-us,8.333317793138121
+Animal Farm,George Orwell,4.01,4417169,530060.28,https://www.goodreads.com/book/show/170448.Animal_Farm,8.333317611880648
+"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,4.43,4392542,527105.04,https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets,8.333317523737728
+"The Hobbit, or There and Back Again",J.R.R. Tolkien,4.3,4380761,525691.32,https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again,8.333317481221716
+"Divergent (Divergent, #1)",Veronica Roth,4.13,4316257,517950.83999999997,https://www.goodreads.com/book/show/13335037-divergent,8.333317244321403
+The Diary of a Young Girl,Anne Frank,4.2,4110844,493301.27999999997,https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl,8.333316440378098
+"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,4.57,4107561,492907.32,https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire,8.3333164268763
+"Catching Fire (The Hunger Games, #2)",Suzanne Collins,4.35,4060379,487245.48,https://www.goodreads.com/book/show/6148028-catching-fire,8.333316230422025
+"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,4.62,4041219,484946.27999999997,https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows,8.33331614933483
+"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas,4.16,3983790,478054.8,https://www.goodreads.com/book/show/16096824-a-court-of-thorns-and-roses,8.333315901616507
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,4.4,3921925,470631.0,https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo,8.333315626646721
+The Catcher in the Rye,J.D. Salinger,3.8,3830358,459642.95999999996,https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye,8.333315203358705
+"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,4.5,3724002,446880.24,https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix,8.333314685575075
+"Mockingjay (The Hunger Games, #3)",Suzanne Collins,4.12,3636932,436431.83999999997,https://www.goodreads.com/book/show/7260188-mockingjay,8.333314239139291
+Verity,Colleen Hoover,4.3,3620745,434489.39999999997,https://www.goodreads.com/book/show/59344312-verity,8.33331415377647
+"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,4.58,3593207,431184.83999999997,https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince,8.333314006786495
+Where the Crawdads Sing,Delia Owens,4.37,3525264,423031.68,https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing,8.33331363430362
+The Alchemist,Paulo Coelho,3.92,3474817,416978.04,https://www.goodreads.com/book/show/865.The_Alchemist,8.333313348316022
+The Kite Runner,Khaled Hosseini,4.35,3431211,411745.32,https://www.goodreads.com/book/show/77203.The_Kite_Runner,8.333313094334395
+"The Girl With the Dragon Tattoo (Millennium, #1)",Stieg Larsson,4.17,3400740,408088.8,https://www.goodreads.com/book/show/2429135.The_Girl_With_the_Dragon_Tattoo,8.33331291299121
+Gone Girl,Gillian Flynn,4.14,3386282,406353.83999999997,https://www.goodreads.com/book/show/19288043-gone-girl,8.333312825805152
+"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan,4.31,3366842,404021.04,https://www.goodreads.com/book/show/28187.The_Lightning_Thief,8.333312707395864
+"Angels & Demons (Robert Langdon, #1)",Dan    Brown,3.95,3359924,403190.88,https://www.goodreads.com/book/show/960.Angels_Demons,8.333312664927677
+"Fourth Wing (The Empyrean, #1)",Rebecca Yarros,4.57,3266615,391993.8,https://www.goodreads.com/book/show/61431922-fourth-wing,8.333312074547928
+The Girl on the Train,Paula Hawkins,3.96,3230886,387706.32,https://www.goodreads.com/book/show/22557272-the-girl-on-the-train,8.333311839456629
+Lord of the Flies,William Golding,3.7,3142987,377158.44,https://www.goodreads.com/book/show/7624.Lord_of_the_Flies,8.333311238345248
+"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,4.24,3088284,370594.07999999996,https://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe,8.333310846976167
+"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,4.4,3081894,369827.27999999997,https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring,8.333310800353072
+The Silent Patient,Alex Michaelides,4.17,3079265,369511.8,https://www.goodreads.com/book/show/40097951-the-silent-patient,8.333310781115026
+"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas,4.64,3034861,364183.32,https://www.goodreads.com/book/show/17927395-a-court-of-mist-and-fury,8.333310451147375
+The Help,Kathryn Stockett,4.47,2980240,357628.8,https://www.goodreads.com/book/show/4667024-the-help,8.333310031770283
+The Book Thief,Markus Zusak,4.39,2825760,339091.2,https://www.goodreads.com/book/show/19063.The_Book_Thief,8.33330875791304
+"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James,3.67,2824059,338887.08,https://www.goodreads.com/book/show/10818853-fifty-shades-of-grey,8.333308743110704
+Romeo and Juliet,William Shakespeare,3.74,2785045,334205.39999999997,https://www.goodreads.com/book/show/18135.Romeo_and_Juliet,8.333308398642277
+Of Mice and Men,John Steinbeck,3.89,2776827,333219.24,https://www.goodreads.com/book/show/890.Of_Mice_and_Men,8.333308324848455
+"The Giver (The Giver, #1)",Lois Lowry,4.12,2755758,330690.95999999996,https://www.goodreads.com/book/show/3636.The_Giver,8.333308133648003
+Fahrenheit 451,Ray Bradbury,3.97,2755461,330655.32,https://www.goodreads.com/book/show/13079982-fahrenheit-451,8.333308130931838
+"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin,4.45,2692704,323124.48,https://www.goodreads.com/book/show/13496.A_Game_of_Thrones,8.33330754355862
+"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",Sarah J. Maas,4.46,2557340,306880.8,https://www.goodreads.com/book/show/23766634-a-court-of-wings-and-ruin,8.333306178470018
+"The Da Vinci Code (Robert Langdon, #2)",Dan    Brown,3.93,2490687,298882.44,https://www.goodreads.com/book/show/968.The_Da_Vinci_Code,8.333305451784147
+The Lovely Bones,Alice Sebold,3.86,2447007,293640.83999999997,https://www.goodreads.com/book/show/12232938-the-lovely-bones,8.33330495408965
+"Little Women (Little Women, #1)",Louisa May Alcott,4.17,2413614,289633.68,https://www.goodreads.com/book/show/1934.Little_Women,8.333304561456522
+The Little Prince,Antoine de Saint-Exupéry,4.33,2406483,288777.95999999996,https://www.goodreads.com/book/show/157993.The_Little_Prince,8.333304476198682
+"Iron Flame (The Empyrean, #2)",Rebecca Yarros,4.36,2394857,287382.83999999997,https://www.goodreads.com/book/show/90202302-iron-flame,8.333304336110201
+"The Handmaid’s Tale (The Handmaid's Tale, #1)",Margaret Atwood,4.15,2355515,282661.8,https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale,8.333303851797973
+The Midnight Library,Matt Haig,3.98,2339975,280797.0,https://www.goodreads.com/book/show/52578297-the-midnight-library,8.333303656008946
+Jane Eyre,Charlotte Brontë,4.16,2279393,273527.16,https://www.goodreads.com/book/show/10210.Jane_Eyre,8.33330286724409
+"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas,4.18,2261460,271375.2,https://www.goodreads.com/book/show/7896527-throne-of-glass,8.333302625653982
+Ugly Love,Colleen Hoover,4.0,2243837,269260.44,https://www.goodreads.com/book/show/17788401-ugly-love,8.333302384478074
+"City of Bones (The Mortal Instruments, #1)",Cassandra Clare,4.07,2141115,256933.8,https://www.goodreads.com/book/show/256683.City_of_Bones,8.3333008996835
+Memoirs of a Geisha,Arthur Golden,4.16,2091700,251004.0,https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha,8.333300133463476
+Brave New World,Aldous Huxley,3.99,2036781,244413.72,https://www.goodreads.com/book/show/5129.Brave_New_World,8.333299238278284
+Charlotte’s Web,E.B. White,4.21,2010484,241258.08,https://www.goodreads.com/book/show/24178.Charlotte_s_Web,8.33329879231903
+"The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,4.22,1984457,238134.84,https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy,8.333298339300796
+Wuthering Heights,Emily Brontë,3.9,1981165,237739.8,https://www.goodreads.com/book/show/6185.Wuthering_Heights,8.333298281153256
+The Perks of Being a Wallflower,Stephen Chbosky,4.24,1964940,235792.8,https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower,8.333297991719885
+The Nightingale,Kristin Hannah,4.64,1964803,235776.36,https://www.goodreads.com/book/show/21853621-the-nightingale,8.333297989255627
+"A ​Court of Silver Flames (A Court of Thorns and Roses, #4)",Sarah J. Maas,4.45,1957237,234868.44,https://www.goodreads.com/book/show/53138095-a-court-of-silver-flames,8.333297852628252
+All the Light We Cannot See,Anthony Doerr,4.31,1926822,231218.63999999998,https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see,8.333297292565632
+Eragon (The Inheritance Cycle #1),Christopher Paolini,3.96,1914041,229684.91999999998,https://www.goodreads.com/book/show/113436.Eragon,8.33329705190462
+The Song of Achilles,Madeline Miller,4.31,1904553,228546.36,https://www.goodreads.com/book/show/13623848-the-song-of-achilles,8.333296871160533
+The Time Traveler's Wife,Audrey Niffenegger,4.0,1848159,221779.08,https://www.goodreads.com/book/show/18619684-the-time-traveler-s-wife,8.333295758573088
+"Breaking Dawn (The Twilight Saga, #4)",Stephenie Meyer,3.75,1845561,221467.31999999998,https://www.goodreads.com/book/show/1162543.Breaking_Dawn,8.33329570567926
+"Eat, Pray, Love",Elizabeth Gilbert,3.64,1827599,219311.88,https://www.goodreads.com/book/show/19501.Eat_Pray_Love,8.33329533586901
+"The Notebook (The Notebook, #1)",Nicholas Sparks,4.16,1819474,218336.88,https://www.goodreads.com/book/show/33648131-the-notebook,8.333295166189211
+The Picture of Dorian Gray,Oscar Wilde,4.13,1812355,217482.6,https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray,8.333295016267893
+Daisy Jones & The Six,Taylor Jenkins Reid,4.2,1801412,216169.44,https://www.goodreads.com/book/show/40597810-daisy-jones-the-six,8.33329478350509
+Educated,Tara Westover,4.47,1800484,216058.08,https://www.goodreads.com/book/show/35133922-educated,8.333294763635946
+Normal People,Sally Rooney,3.81,1796391,215566.91999999998,https://www.goodreads.com/book/show/41057294-normal-people,8.33329467575695
+Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,3.89,1793630,215235.6,https://www.goodreads.com/book/show/35031085-frankenstein,8.33329461625021
+The Love Hypothesis,Ali Hazelwood,4.11,1774836,212980.31999999998,https://www.goodreads.com/book/show/56732449-the-love-hypothesis,8.333294206271237
+"Me Before You (Me Before You, #1)",Jojo Moyes,4.26,1774775,212973.0,https://www.goodreads.com/book/show/17347634-me-before-you,8.333294204926423
+Life of Pi,Yann Martel,3.94,1736559,208387.08,https://www.goodreads.com/book/show/4214.Life_of_Pi,8.333293343841932
+"The Selection (The Selection, #1)",Kiera Cass,4.07,1731325,207759.0,https://www.goodreads.com/book/show/10507293-the-selection,8.333293222949557
+Looking for Alaska,John Green,3.96,1726431,207171.72,https://www.goodreads.com/book/show/99561.Looking_for_Alaska,8.333293109247203
+A Thousand Splendid Suns,Khaled Hosseini,4.45,1700364,204043.68,https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns,8.333292492605052
+Water for Elephants,Sara Gruen,4.11,1687263,202471.56,https://www.goodreads.com/book/show/43641.Water_for_Elephants,8.333292175492817
+"A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)",Holly  Jackson,4.29,1677612,201313.44,https://www.goodreads.com/book/show/40916679-a-good-girl-s-guide-to-murder,8.333291938720341
+"The Shining (The Shining, #1)",Stephen        King,4.28,1665444,199853.28,https://www.goodreads.com/book/show/11588.The_Shining,8.333291636286198
+"The Cruel Prince (The Folk of the Air, #1)",Holly Black,4.01,1659229,199107.47999999998,https://www.goodreads.com/book/show/26032825-the-cruel-prince,8.333291480101702
+"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas,4.36,1649792,197975.03999999998,https://www.goodreads.com/book/show/17167166-crown-of-midnight,8.333291240697612
+"The Maze Runner (The Maze Runner, #1)",James Dashner,4.05,1649582,197949.84,https://www.goodreads.com/book/show/6186357-the-maze-runner,8.333291235339036
+"Insurgent (Divergent, #2)",Veronica Roth,3.96,1605179,192621.47999999998,https://www.goodreads.com/book/show/11735983-insurgent,8.333290070816242
+"The Golden Compass (His Dark Materials, #1)",Philip Pullman,4.03,1601333,192159.96,https://www.goodreads.com/book/show/119322.The_Golden_Compass,8.333289966911073
+Dune (Dune #1),Frank Herbert,4.29,1589380,190725.6,https://www.goodreads.com/book/show/44767458-dune,8.333289640773756
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,3.89,1578681,189441.72,https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time,8.333289344663125
+Beach Read,Emily Henry,3.98,1568183,188181.96,https://www.goodreads.com/book/show/52867387-beach-read,8.33328905018818
+And Then There Were None,Agatha Christie,4.27,1566167,187940.03999999998,https://www.goodreads.com/book/show/16299.And_Then_There_Were_None,8.333288993186375
+The Outsiders,S.E. Hinton,4.14,1557491,186898.91999999998,https://www.goodreads.com/book/show/231804.The_Outsiders,8.33328874619101
+Paper Towns,John Green,3.7,1473271,176792.52,https://www.goodreads.com/book/show/6442769-paper-towns,8.333286197367416
+Slaughterhouse-Five,Kurt Vonnegut Jr.,4.1,1461667,175400.03999999998,https://www.goodreads.com/book/show/4981.Slaughterhouse_Five,8.333285823162736
+"Heir of Fire (Throne of Glass, #3)",Sarah J. Maas,4.45,1458932,175071.84,https://www.goodreads.com/book/show/20613470-heir-of-fire,8.333285734097876
+"Ender’s Game (Ender's Saga, #1)",Orson Scott Card,4.31,1457748,174929.75999999998,https://www.goodreads.com/book/show/375802.Ender_s_Game,8.333285695437441
+Dracula,Bram Stoker,4.02,1430692,171683.04,https://www.goodreads.com/book/show/17245.Dracula,8.333284794556326
+The Invisible Life of Addie LaRue,V.E. Schwab,4.17,1428836,171460.32,https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue,8.33328473150679
+"The Housemaid's Secret (The Housemaid, #2)",Freida McFadden,4.19,1397462,167695.44,https://www.goodreads.com/book/show/62848145-the-housemaid-s-secret,8.333283640368276
+The Metamorphosis,Franz Kafka,3.9,1366211,163945.32,https://www.goodreads.com/book/show/485894.The_Metamorphosis,8.333282503687792
+We Were Liars,E. Lockhart,3.65,1346292,161555.04,https://www.goodreads.com/book/show/16143347-we-were-liars,8.333281751644815
+"Holes (Holes, #1)",Louis Sachar,4.01,1344042,161285.04,https://www.goodreads.com/book/show/38709.Holes,8.333281665294777
+"Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",Ransom Riggs,3.92,1343639,161236.68,https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children,8.333281649797987
+Night,Elie Wiesel,4.38,1343168,161180.16,https://www.goodreads.com/book/show/1617.Night,8.33328163167457
+The Secret Life of Bees,Sue Monk Kidd,4.1,1342750,161130.0,https://www.goodreads.com/book/show/37435.The_Secret_Life_of_Bees,8.33328161557987
+The Stranger,Albert Camus,4.03,1342142,161057.04,https://www.goodreads.com/book/show/49552.The_Stranger,8.333281592151499
+The Glass Castle,Jeannette Walls,4.32,1337646,160517.52,https://www.goodreads.com/book/show/7445.The_Glass_Castle,8.333281418243827
+"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Rick Riordan,4.24,1332441,159892.91999999998,https://www.goodreads.com/book/show/28186.The_Sea_of_Monsters,8.333281215445842
+The Adventures of Huckleberry Finn,Mark Twain,3.83,1324990,158998.8,https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn,8.33328092236594
+Never Lie,Freida McFadden,4.08,1311808,157416.96,https://www.goodreads.com/book/show/62080187-never-lie,8.333280395705803
+"Queen of Shadows (Throne of Glass, #4)",Sarah J. Maas,4.62,1310963,157315.56,https://www.goodreads.com/book/show/18006496-queen-of-shadows,8.333280361584311
+Circe,Madeline Miller,4.22,1302298,156275.75999999998,https://www.goodreads.com/book/show/35959740-circe,8.333280009132517
+The Old Man and the Sea,Ernest Hemingway,3.81,1280749,153689.88,https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea,8.333279111942101
+"Ready Player One (Ready Player One, #1)",Ernest Cline,4.23,1277219,153266.28,https://www.goodreads.com/book/show/9969571-ready-player-one,8.333278962085059
+Sense and Sensibility,Jane Austen,4.09,1276320,153158.4,https://www.goodreads.com/book/show/14935.Sense_and_Sensibility,8.333278923787898
+The Secret Garden,Frances Hodgson Burnett,4.17,1273750,152850.0,https://www.goodreads.com/book/show/2998.The_Secret_Garden,8.333278814008413
+"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,3.97,1268987,152278.44,https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time,8.333278609377603
+My Sister's Keeper,Jodi Picoult,4.11,1267366,152083.91999999998,https://www.goodreads.com/book/show/10917.My_Sister_s_Keeper,8.333278539384445
+The Martian,Andy Weir,4.42,1254593,150551.16,https://www.goodreads.com/book/show/18007564-the-martian,8.33327798153145
+Gone with the Wind,Margaret Mitchell,4.31,1248835,149860.19999999998,https://www.goodreads.com/book/show/18405.Gone_with_the_Wind,8.333277726322759
+Eleanor & Park,Rainbow Rowell,3.93,1246553,149586.36,https://www.goodreads.com/book/show/15745753-eleanor-park,8.333277624526565
+It,Stephen        King,4.24,1239071,148688.52,https://www.goodreads.com/book/show/830502.It,8.333277288137053
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,4.34,1219438,146332.56,https://www.goodreads.com/book/show/23692271-sapiens,8.333276385813344
+The Giving Tree,Shel Silverstein,4.38,1217949,146153.88,https://www.goodreads.com/book/show/370493.The_Giving_Tree,8.333276316192794
+"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan,4.42,1196779,143613.47999999998,https://www.goodreads.com/book/show/2120932.The_Battle_of_the_Labyrinth,8.333275307615223
+Sharp Objects,Gillian Flynn,4.01,1193966,143275.91999999998,https://www.goodreads.com/book/show/18045891-sharp-objects,8.333275170906802
+"Red, White & Royal Blue",Casey McQuiston,4.05,1192774,143132.88,https://www.goodreads.com/book/show/41150487-red-white-royal-blue,8.333275112782522
+"The Titan’s Curse (Percy Jackson and the Olympians, #3)",Rick Riordan,4.37,1190421,142850.52,https://www.goodreads.com/book/show/561456.The_Titan_s_Curse,8.33327499770391
+A Man Called Ove,Fredrik Backman,4.38,1180418,141650.16,https://www.goodreads.com/book/show/18774964-a-man-called-ove,8.333274503364462
+"Wonder (Wonder, #1)",R.J. Palacio,4.36,1177876,141345.12,https://www.goodreads.com/book/show/11387515-wonder,8.333274376403116
+The Bell Jar,Sylvia Plath,4.05,1176946,141233.52,https://www.goodreads.com/book/show/6514.The_Bell_Jar,8.333274329816819
+"Shatter Me (Shatter Me, #1)",Tahereh Mafi,3.84,1175010,141001.19999999998,https://www.goodreads.com/book/show/10429045-shatter-me,8.333274232600628
+Into the Wild,Jon Krakauer,4.02,1174504,140940.47999999998,https://www.goodreads.com/book/show/1845.Into_the_Wild,8.33327420713902
+"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",Mitch Albom,4.2,1169052,140286.24,https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie,8.333273931399606
+The Odyssey,Homer,3.83,1167493,140099.16,https://www.goodreads.com/book/show/1381.The_Odyssey,8.333273852078399
+"Red Queen (Red Queen, #1)",Victoria Aveyard,3.98,1143712,137245.44,https://www.goodreads.com/book/show/22328546-red-queen,8.333272615304265
+"Empire of Storms (Throne of Glass, #5)",Sarah J. Maas,4.63,1142795,137135.4,https://www.goodreads.com/book/show/28260587-empire-of-storms,8.333272566583343
+"Outlander (Outlander, #1)",Diana Gabaldon,4.26,1138753,136650.36,https://www.goodreads.com/book/show/10964.Outlander,8.333272350893544
+"Allegiant (Divergent, #3)",Veronica Roth,3.6,1128995,135479.4,https://www.goodreads.com/book/show/18710190-allegiant,8.333271823821011
+"The Last Olympian (Percy Jackson and the Olympians, #5)",Rick Riordan,4.55,1125419,135050.28,https://www.goodreads.com/book/show/4556058-the-last-olympian,8.333271628377014
+How to Win Friends & Influence People,Dale Carnegie,4.22,1123282,134793.84,https://www.goodreads.com/book/show/4865.How_to_Win_Friends_Influence_People,8.333271510986622
+"Six of Crows (Six of Crows, #1)",Leigh Bardugo,4.46,1119934,134392.08,https://www.goodreads.com/book/show/23437156-six-of-crows,8.333271326172449
+"The Last Thing He Told Me (Hannah Hall, #1)",Laura Dave,3.83,1117035,134044.19999999998,https://www.goodreads.com/book/show/54981009-the-last-thing-he-told-me,8.333271165248737
+"The Ballad of Songbirds and Snakes (The Hunger Games, #0)",Suzanne Collins,3.99,1108802,133056.24,https://www.goodreads.com/book/show/51901147-the-ballad-of-songbirds-and-snakes,8.33327070364604
+Big Little Lies,Liane Moriarty,4.31,1099601,131952.12,https://www.goodreads.com/book/show/33516773-big-little-lies,8.333270179591056
+"The Two Towers (The Lord of the Rings, #2)",J.R.R. Tolkien,4.5,1097333,131679.96,https://www.goodreads.com/book/show/222910.The_Two_Towers,8.33327004906404
+"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,4.32,1090286,130834.31999999999,https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables,8.333269640032983
+Matilda,Roald Dahl,4.33,1086441,130372.92,https://www.goodreads.com/book/show/39988.Matilda,8.33326941461912
+"The Assassin's Blade (Throne of Glass, #0.1-0.5)",Sarah J. Maas,4.2,1084298,130115.76,https://www.goodreads.com/book/show/18243700-the-assassin-s-blade,8.333269288291532
+One Hundred Years of Solitude,Gabriel García Márquez,4.12,1081737,129808.44,https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude,8.333269136666793
+"Shadow and Bone (Shadow and Bone, #1)",Leigh Bardugo,3.92,1078667,129440.04,https://www.goodreads.com/book/show/10194157-shadow-and-bone,8.333268953957726
+The Night Circus,Erin Morgenstern,4.0,1077879,129345.48,https://www.goodreads.com/book/show/9361589-the-night-circus,8.333268906892558
+"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss,4.52,1061165,127339.79999999999,https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind,8.333267892144546
+"House of Earth and Blood (Crescent City, #1)",Sarah J. Maas,4.45,1057718,126926.15999999999,https://www.goodreads.com/book/show/44778083-house-of-earth-and-blood,8.33326767887976
+Where the Wild Things Are,Maurice Sendak,4.25,1048212,125785.44,https://www.goodreads.com/book/show/19543.Where_the_Wild_Things_Are,8.333267083478951
+"The Host (The Host, #1)",Stephenie Meyer,3.86,1043061,125167.31999999999,https://www.goodreads.com/book/show/1656001.The_Host,8.333266756316615
+"Jurassic Park (Jurassic Park, #1)",Michael Crichton,4.13,1042744,125129.28,https://www.goodreads.com/book/show/40604658-jurassic-park,8.333266736076991
+Crime and Punishment,Fyodor Dostoevsky,4.28,1042309,125077.08,https://www.goodreads.com/book/show/7144.Crime_and_Punishment,8.333266708283338
+"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Jenny Han,4.04,1032994,123959.28,https://www.goodreads.com/book/show/15749186-to-all-the-boys-i-ve-loved-before,8.333266107498305
+"One of Us Is Lying (One of Us is Lying, #1)",Karen M. McManus,3.91,1029795,123575.4,https://www.goodreads.com/book/show/58679358-one-of-us-is-lying,8.333265898666737
+"The Wicked King (The Folk of the Air, #2)",Holly Black,4.27,1029195,123503.4,https://www.goodreads.com/book/show/26032887-the-wicked-king,8.333265859353999
+Hamlet,William Shakespeare,4.03,1028715,123445.79999999999,https://www.goodreads.com/book/show/1420.Hamlet,8.333265827870791
+None of This Is True,Lisa Jewell,4.08,1027760,123331.2,https://www.goodreads.com/book/show/62334530-none-of-this-is-true,8.33326576514487
+"The Inheritance Games (The Inheritance Games, #1)",Jennifer Lynn Barnes,4.13,1027256,123270.72,https://www.goodreads.com/book/show/52439531-the-inheritance-games,8.333265731994329
+The Goldfinch,Donna Tartt,3.96,1020657,122478.84,https://www.goodreads.com/book/show/17333223-the-goldfinch,8.33326529492527
+Thirteen Reasons Why,Jay Asher,3.84,1017628,122115.36,https://www.goodreads.com/book/show/29844228-thirteen-reasons-why,8.333265092408585
+"Bridget Jones’s Diary (Bridget Jones, #1)",Helen Fielding,3.81,1016378,121965.36,https://www.goodreads.com/book/show/227443.Bridget_Jones_s_Diary,8.333265008482666
+"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien,4.58,1016152,121938.23999999999,https://www.goodreads.com/book/show/838729.The_Return_of_the_King,8.333264993286821
+The Road,Cormac McCarthy,4.0,1012658,121518.95999999999,https://www.goodreads.com/book/show/6288.The_Road,8.333264757493337
+"City of Glass (The Mortal Instruments, #3)",Cassandra Clare,4.27,1007315,120877.79999999999,https://www.goodreads.com/book/show/3777732-city-of-glass,8.33326439375639
+"A Clash of Kings  (A Song of Ice and Fire, #2)",George R.R. Martin,4.42,1007013,120841.56,https://www.goodreads.com/book/show/10572.A_Clash_of_Kings,8.333264373081802
+The Adventures of Tom Sawyer,Mark Twain,3.92,1004035,120484.2,https://www.goodreads.com/book/show/24583.The_Adventures_of_Tom_Sawyer,8.333264168545183
+The Count of Monte Cristo,Alexandre Dumas,4.32,1002176,120261.12,https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo,8.333264040248086
+"Kingdom of Ash (Throne of Glass, #7)",Sarah J. Maas,4.71,1001775,120213.0,https://www.goodreads.com/book/show/33590260-kingdom-of-ash,8.333264012511021
+A Tale of Two Cities,Charles Dickens,3.88,1001619,120194.28,https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities,8.333264001714543
+Macbeth,William Shakespeare,3.89,1000601,120072.12,https://www.goodreads.com/book/show/8852.Macbeth,8.333263931177935
+"Cinder (The Lunar Chronicles, #1)",Marissa Meyer,4.13,999253,119910.36,https://www.goodreads.com/book/show/36381037-cinder,8.333263837554673
+"The Hate U Give (The Hate U Give, #1)",Angie Thomas,4.45,994452,119334.23999999999,https://www.goodreads.com/book/show/32075671-the-hate-u-give,8.33326350204684
+"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,4.39,994363,119323.56,https://www.goodreads.com/book/show/8664353-unbroken,8.333263495796674
+"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare,4.11,985853,118302.36,https://www.goodreads.com/book/show/1582996.City_of_Ashes,8.333262892955872
+American Gods,Neil Gaiman,4.1,982952,117954.23999999999,https://www.goodreads.com/book/show/30165203-american-gods,8.333262685065963
+The Grapes of Wrath,John Steinbeck,4.02,978785,117454.2,https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath,8.33326238429631
+The Girl Who Played with Fire (Millennium #2),Stieg Larsson,4.26,976301,117156.12,https://www.goodreads.com/book/show/5060378-the-girl-who-played-with-fire,8.333262203782407
+The Secret History,Donna Tartt,4.16,973697,116843.64,https://www.goodreads.com/book/show/29044.The_Secret_History,8.333262013559201
+"Fifty Shades Darker (Fifty Shades, #2)",E.L. James,3.83,965956,115914.72,https://www.goodreads.com/book/show/11857408-fifty-shades-darker,8.333261442020117
+Emma,Jane Austen,4.05,960154,115218.48,https://www.goodreads.com/book/show/6969.Emma,8.333261007600452
+"If I Stay (If I Stay, #1)",Gayle Forman,3.91,959542,115145.04,https://www.goodreads.com/book/show/4374400-if-i-stay,8.33326096147119
+Project Hail Mary,Andy Weir,4.5,953631,114435.72,https://www.goodreads.com/book/show/54493401-project-hail-mary,8.333260512884326
+The Boy in the Striped Pajamas,John Boyne,4.16,945934,113512.08,https://www.goodreads.com/book/show/39999.The_Boy_in_the_Striped_Pajamas,8.333259920354553
+The Princess Bride,William Goldman,4.27,940504,112860.48,https://www.goodreads.com/book/show/21787.The_Princess_Bride,8.333259496508463
+Then She Was Gone,Lisa Jewell,4.04,938770,112652.4,https://www.goodreads.com/book/show/35297426-then-she-was-gone,8.333259360125838
+"The Queen of Nothing (The Folk of the Air, #3)",Holly Black,4.34,927950,111354.0,https://www.goodreads.com/book/show/26032912-the-queen-of-nothing,8.333258497597773
+Lolita,Vladimir Nabokov,3.87,927810,111337.2,https://www.goodreads.com/book/show/7604.Lolita,8.333258486305688
+"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan,4.29,926595,111191.4,https://www.goodreads.com/book/show/7736182-the-lost-hero,8.33325838816322
+"Mistborn: The Final Empire (Mistborn, #1)",Brandon Sanderson,4.49,922476,110697.12,https://www.goodreads.com/book/show/68428.Mistborn,8.333258053524306
+"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,4.17,918245,110189.4,https://www.goodreads.com/book/show/6310.Charlie_and_the_Chocolate_Factory,8.333257706660472
+Anna Karenina,Leo Tolstoy,4.1,914605,109752.59999999999,https://www.goodreads.com/book/show/15823480-anna-karenina,8.333257405679632
+The Scarlet Letter,Nathaniel Hawthorne,3.44,906605,108792.59999999999,https://www.goodreads.com/book/show/12296.The_Scarlet_Letter,8.333256735690336
+"Fifty Shades Freed (Fifty Shades, #3)",E.L. James,3.83,905652,108678.23999999999,https://www.goodreads.com/book/show/13536860-fifty-shades-freed,8.333256655088865
+A Christmas Carol,Charles Dickens,4.09,901970,108236.4,https://www.goodreads.com/book/show/5326.A_Christmas_Carol,8.333256342077693
+"The House in the Cerulean Sea (Cerulean Chronicles, #1)",T.J. Klune,4.37,899545,107945.4,https://www.goodreads.com/book/show/45047384-the-house-in-the-cerulean-sea,8.333256134526025
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt,4.01,889665,106759.8,https://www.goodreads.com/book/show/1202.Freakonomics,8.333255277217855
+A Little Life,Hanya Yanagihara,4.29,883701,106044.12,https://www.goodreads.com/book/show/22822858-a-little-life,8.333254750430761
+Catch-22,Joseph Heller,3.99,877862,105343.44,https://www.goodreads.com/book/show/168668.Catch_22,8.333254227750416
+The Woman in the Window,A.J. Finn,3.94,871316,104557.92,https://www.goodreads.com/book/show/40389527-the-woman-in-the-window,8.33325363345375
+"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare,4.31,870065,104407.8,https://www.goodreads.com/book/show/7171637-clockwork-angel,8.333253518860479
+"Heartstopper: Volume One (Heartstopper, #1)",Alice Oseman,4.43,862906,103548.72,https://www.goodreads.com/book/show/40495957-heartstopper,8.333252856695315
+Great Expectations,Charles Dickens,3.8,862687,103522.44,https://www.goodreads.com/book/show/2623.Great_Expectations,8.333252836265874
+"The Elite (The Selection, #2)",Kiera Cass,3.94,857679,102921.48,https://www.goodreads.com/book/show/16248068-the-elite,8.333252366246908
+Siddhartha,Hermann Hesse,4.08,856590,102790.8,https://www.goodreads.com/book/show/52036.Siddhartha,8.333252263312833
+"They Both Die at the End (They Both Die at the End, #1)",Adam Silvera,3.75,849760,101971.2,https://www.goodreads.com/book/show/33385229-they-both-die-at-the-end,8.33325161171378
+Man's Search for Meaning,Viktor E. Frankl,4.37,846275,101553.0,https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning,8.333251275183645
+A Walk to Remember,Nicholas Sparks,4.2,840273,100832.76,https://www.goodreads.com/book/show/35545737-a-walk-to-remember,8.333250689054935
+"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin,4.55,835681,100281.72,https://www.goodreads.com/book/show/62291.A_Storm_of_Swords,8.33325023493579
+Green Eggs and Ham,Dr. Seuss,4.31,835501,100260.12,https://www.goodreads.com/book/show/23772.Green_Eggs_and_Ham,8.333250217033283
+Les Misérables,Victor Hugo,4.21,834878,100185.36,https://www.goodreads.com/book/show/24280.Les_Mis_rables,8.333250155011122
+Room,Emma Donoghue,4.08,828542,99425.04,https://www.goodreads.com/book/show/31685789-room,8.333249518938903
+Never Let Me Go,Kazuo Ishiguro,3.85,827385,99286.2,https://www.goodreads.com/book/show/6334.Never_Let_Me_Go,8.333249401735571
+"Haunting Adeline (Cat and Mouse, #1)",H.D. Carlton,3.95,825696,99083.51999999999,https://www.goodreads.com/book/show/58763686-haunting-adeline,8.333249230051274
+Misery,Stephen        King,4.23,825112,99013.44,https://www.goodreads.com/book/show/10614.Misery,8.333249170525026
+Dark Places,Gillian Flynn,3.94,824846,98981.51999999999,https://www.goodreads.com/book/show/5886881-dark-places,8.333249143384105
+"Powerless (The Powerless Trilogy, #1)",Lauren  Roberts,4.17,824078,98889.36,https://www.goodreads.com/book/show/75513900-powerless,8.333249064924022
+Carrie,Stephen        King,3.99,822910,98749.2,https://www.goodreads.com/book/show/10592.Carrie,8.333248945318593
+"A Time to Kill (Jake Brigance, #1)",John Grisham,4.12,822309,98677.08,https://www.goodreads.com/book/show/32542.A_Time_to_Kill,8.333248883642648
+"Caraval (Caraval, #1)",Stephanie Garber,3.97,821141,98536.92,https://www.goodreads.com/book/show/27883214-caraval,8.333248763521699
+The Stand,Stephen        King,4.35,820961,98515.31999999999,https://www.goodreads.com/book/show/149267.The_Stand,8.333248744979512
+"The Pillars of the Earth (Kingsbridge, #1)",Ken Follett,4.35,816205,97944.59999999999,https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth,8.333248252090957
+"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,4.25,814950,97794.0,https://www.goodreads.com/book/show/12067.Good_Omens,8.333248121069584
+"Matched (Matched, #1)",Ally Condie,3.62,811436,97372.31999999999,https://www.goodreads.com/book/show/7735333-matched,8.333247752053643
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,4.16,808113,96973.56,https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People,8.333247400142882
+"From Blood and Ash (Blood and Ash, #1)",Jennifer L. Armentrout,4.22,805508,96660.95999999999,https://www.goodreads.com/book/show/52831200-from-blood-and-ash,8.333247122239193
+"Confessions of a Shopaholic (Shopaholic, #1)",Sophie Kinsella,3.71,799264,95911.68,https://www.goodreads.com/book/show/9416.Confessions_of_a_Shopaholic,8.333246448749009
+The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,4.19,798844,95861.28,https://www.goodreads.com/book/show/39832183-the-guernsey-literary-and-potato-peel-pie-society,8.333246403069069
+The Five People You Meet in Heaven,Mitch Albom,4.01,788828,94659.36,https://www.goodreads.com/book/show/3431.The_Five_People_You_Meet_in_Heaven,8.333245299299517
+The Poisonwood Bible,Barbara Kingsolver,4.11,784707,94164.84,https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible,8.333244836981224
+"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin,4.17,781771,93812.51999999999,https://www.goodreads.com/book/show/13497.A_Feast_for_Crows,8.333244504630038
+Fangirl,Rainbow Rowell,3.94,775085,93010.2,https://www.goodreads.com/book/show/16068905-fangirl,8.333243738388495
+Girl with a Pearl Earring,Tracy Chevalier,3.93,773080,92769.59999999999,https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring,8.33324350602454
+One Flew Over the Cuckoo’s Nest,Ken Kesey,4.2,771888,92626.56,https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest,8.333243367308823
+"The Girl Who Kicked the Hornet’s Nest (Millennium, #3)",Stieg Larsson,4.24,769523,92342.76,https://www.goodreads.com/book/show/6892870-the-girl-who-kicked-the-hornet-s-nest,8.333243090816316
+Coraline,Neil Gaiman,4.13,766887,92026.44,https://www.goodreads.com/book/show/17061.Coraline,8.333242780631515
+"The One (The Selection, #3)",Kiera Cass,4.14,764639,91756.68,https://www.goodreads.com/book/show/18635016-the-one,8.333242514414053
+Persuasion,Jane Austen,4.15,759950,91194.0,https://www.goodreads.com/book/show/2156.Persuasion,8.333241954054499
+A Clockwork Orange,Anthony Burgess,4.0,758538,91024.56,https://www.goodreads.com/book/show/41817486-a-clockwork-orange,8.333241783956067
+"Crooked Kingdom (Six of Crows, #2)",Leigh Bardugo,4.57,749382,89925.84,https://www.goodreads.com/book/show/22299763-crooked-kingdom,8.333240665412017
+"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson,4.0,746044,89525.28,https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City,8.333240250795633
+"Good Girl, Bad Blood (A Good Girl's Guide to Murder, #2)",Holly  Jackson,4.26,743710,89245.2,https://www.goodreads.com/book/show/51335759-good-girl-bad-blood,8.333239958676112
+The Color Purple,Alice Walker,4.28,742367,89084.04,https://www.goodreads.com/book/show/52892857-the-color-purple,8.333239789755947
+"Hush, Hush (Hush, Hush, #1)",Becca Fitzpatrick,3.92,738449,88613.87999999999,https://www.goodreads.com/book/show/6339664-hush-hush,8.333239293445978
+Behind Closed Doors,B.A. Paris,3.97,732936,87952.31999999999,https://www.goodreads.com/book/show/29437949-behind-closed-doors,8.333238586104539
+"The Woman in Cabin 10 (Lo Blacklock, #1)",Ruth Ware,3.73,732174,87860.87999999999,https://www.goodreads.com/book/show/28187230-the-woman-in-cabin-10,8.33323848749879
+"Unravel Me (Shatter Me, #2)",Tahereh Mafi,4.11,731385,87766.2,https://www.goodreads.com/book/show/13104080-unravel-me,8.33323838518262
+"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Ann Brashares,3.85,730001,87600.12,https://www.goodreads.com/book/show/452306.The_Sisterhood_of_the_Traveling_Pants,8.333238205173632
+"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin,4.34,729669,87560.28,https://www.goodreads.com/book/show/10664113-a-dance-with-dragons,8.333238161890735
+The Lord of the Rings,J.R.R. Tolkien,4.54,721144,86537.28,https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings,8.333237036835028
+In Cold Blood,Truman Capote,4.09,716263,85951.56,https://www.goodreads.com/book/show/168642.In_Cold_Blood,8.333236380626708
+Me Talk Pretty One Day,David Sedaris,4.01,716084,85930.08,https://www.goodreads.com/book/show/4137.Me_Talk_Pretty_One_Day,8.333236356391657
+"Murder on the Orient Express (Hercule Poirot, #10)",Agatha Christie,4.2,711744,85409.28,https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express,8.333235765062472
+Local Woman Missing,Mary Kubica,4.12,709629,85155.48,https://www.goodreads.com/book/show/57361474-local-woman-missing,8.333235474270426
+Norwegian Wood,Haruki Murakami,3.99,708518,85022.16,https://www.goodreads.com/book/show/11297.Norwegian_Wood,8.333235320823173
+Rebecca,Daphne du Maurier,4.25,706756,84810.72,https://www.goodreads.com/book/show/17899948-rebecca,8.33323507647292
+"Better Than the Movies (Better Than the Movies, #1)",Lynn Painter,4.26,705978,84717.36,https://www.goodreads.com/book/show/55710822-better-than-the-movies,8.333234968193436
+The Joy Luck Club,Amy Tan,3.97,705566,84667.92,https://www.goodreads.com/book/show/7763.The_Joy_Luck_Club,8.333234910755918
+"Beautiful Disaster (Beautiful, #1)",Jamie McGuire,4.0,705393,84647.16,https://www.goodreads.com/book/show/11505797-beautiful-disaster,8.333234886617737
+"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",Carlos Ruiz Zafón,4.31,704788,84574.56,https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind,8.333234802110681
+"Uglies (Uglies, #1)",Scott Westerfeld,3.84,703648,84437.76,https://www.goodreads.com/book/show/24770.Uglies,8.333234642479354
+"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,4.28,698575,83829.0,https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia,8.333233925802219
+Deception Point,Dan    Brown,3.76,694342,83321.04,https://www.goodreads.com/book/show/976.Deception_Point,8.333233319779497
+The Couple Next Door,Shari Lapena,3.8,693536,83224.31999999999,https://www.goodreads.com/book/show/28815474-the-couple-next-door,8.333233203549113
+"Red Rising (Red Rising Saga, #1)",Pierce Brown,4.27,693420,83210.4,https://www.goodreads.com/book/show/15839976-red-rising,8.333233186798925
+The Paris Apartment,Lucy Foley,3.65,692247,83069.64,https://www.goodreads.com/book/show/58468990-the-paris-apartment,8.33323301710448
+The Shack: Where Tragedy Confronts Eternity,William Paul Young,3.84,685808,82296.95999999999,https://www.goodreads.com/book/show/40874325-the-shack,8.333232075254356
+Pet Sematary,Stephen        King,4.08,677886,81346.31999999999,https://www.goodreads.com/book/show/33124137-pet-sematary,8.333230891933503
+"Vampire Academy (Vampire Academy, #1)",Richelle Mead,4.1,675930,81111.59999999999,https://www.goodreads.com/book/show/345627.Vampire_Academy,8.333230595493179
+"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",Gregory Maguire,3.51,673511,80821.31999999999,https://www.goodreads.com/book/show/37442.Wicked,8.333230226501788
+"Hopeless (Hopeless, #1)",Colleen Hoover,4.22,668837,80260.44,https://www.goodreads.com/book/show/15717943-hopeless,8.333229505974476
+"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante, #1)",Benjamin Alire Sáenz,4.29,667817,80138.04,https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe,8.33322934739423
+"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan,4.47,664068,79688.16,https://www.goodreads.com/book/show/12127750-the-mark-of-athena,8.333228760348334
+Digital Fortress,Dan    Brown,3.7,660205,79224.59999999999,https://www.goodreads.com/book/show/11125.Digital_Fortress,8.33322814847726
+Middlesex,Jeffrey Eugenides,4.04,659358,79122.95999999999,https://www.goodreads.com/book/show/2187.Middlesex,8.333228013360303
+Pretty Girls,Karin Slaughter,4.01,658314,78997.68,https://www.goodreads.com/book/show/25574782-pretty-girls,8.3332278463387
+"The Son of Neptune (The Heroes of Olympus, #2)",Rick Riordan,4.4,656738,78808.56,https://www.goodreads.com/book/show/9520360-the-son-of-neptune,8.333227593200622
+"The Gunslinger (The Dark Tower, #1)",Stephen        King,3.91,654501,78540.12,https://www.goodreads.com/book/show/43615.The_Gunslinger,8.33322723179909
+"Angela’s Ashes (Frank McCourt, #1)",Frank McCourt,4.15,653413,78409.56,https://www.goodreads.com/book/show/252577.Angela_s_Ashes,8.33322705513135
+The Ocean at the End of the Lane,Neil Gaiman,4.02,652774,78332.87999999999,https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane,8.333226951097023
+Archer's Voice,Mia Sheridan,4.17,650993,78119.16,https://www.goodreads.com/book/show/32822135-archer-s-voice,8.333226660058044
+Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.83,648925,77871.0,https://www.goodreads.com/book/show/51496.Dr_Jekyll_and_Mr_Hyde,8.333226320115061
+"Ignite Me (Shatter Me, #3)",Tahereh Mafi,4.45,646442,77573.04,https://www.goodreads.com/book/show/13188676-ignite-me,8.333225909079895
+"The Lost Symbol (Robert Langdon, #3)",Dan    Brown,3.76,644695,77363.4,https://www.goodreads.com/book/show/6411961-the-lost-symbol,8.3332256179845
+’Salem’s Lot,Stephen        King,4.1,643271,77192.52,https://www.goodreads.com/book/show/11590._Salem_s_Lot,8.333225379539629
+"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson,4.66,640391,76846.92,https://www.goodreads.com/book/show/7235533-the-way-of-kings,8.333224894050483
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,4.02,638419,76610.28,https://www.goodreads.com/book/show/43763.Interview_with_the_Vampire,8.33322455909887
+The Firm,John Grisham,4.06,636307,76356.84,https://www.goodreads.com/book/show/5358.The_Firm,8.33322419806532
+"City of Fallen Angels (The Mortal Instruments, #4)",Cassandra Clare,4.07,634862,76183.44,https://www.goodreads.com/book/show/6752378-city-of-fallen-angels,8.333223949667412
+Fight Club,Chuck Palahniuk,4.18,633445,76013.4,https://www.goodreads.com/book/show/36236124-fight-club,8.333223704982215
+"The Scorch Trials (The Maze Runner, #2)",James Dashner,3.89,632291,75874.92,https://www.goodreads.com/book/show/7631105-the-scorch-trials,8.33322350490116
+Turtles All the Way Down,John Green,3.88,632140,75856.8,https://www.goodreads.com/book/show/35504431-turtles-all-the-way-down,8.333223478666662
+The Red Tent,Anita Diamant,4.2,626709,75205.08,https://www.goodreads.com/book/show/4989.The_Red_Tent,8.333222526689331
+11/22/63,Stephen        King,4.35,625622,75074.64,https://www.goodreads.com/book/show/10644930-11-22-63,8.33322233416858
+Speak,Laurie Halse Anderson,4.05,625498,75059.76,https://www.goodreads.com/book/show/39280444-speak,8.333222312164173
+"The Well of Ascension (Mistborn, #2)",Brandon Sanderson,4.38,621689,74602.68,https://www.goodreads.com/book/show/68429.The_Well_of_Ascension,8.333221631962392
+All the Bright Places,Jennifer Niven,4.11,619925,74391.0,https://www.goodreads.com/book/show/18460392-all-the-bright-places,8.333221314119799
+"Beautiful Creatures (Caster Chronicles, #1)",Kami Garcia,3.77,618353,74202.36,https://www.goodreads.com/book/show/6304335-beautiful-creatures,8.333221029344223
+Dear John,Nicholas Sparks,4.04,615510,73861.2,https://www.goodreads.com/book/show/5526.Dear_John,8.333220510626546
+East of Eden,John Steinbeck,4.43,614054,73686.48,https://www.goodreads.com/book/show/4406.East_of_Eden,8.333220243113214
+"Fallen (Fallen, #1)",Lauren Kate,3.72,613927,73671.23999999999,https://www.goodreads.com/book/show/6487308-fallen,8.333220219719125
+Number the Stars,Lois Lowry,4.19,612085,73450.2,https://www.goodreads.com/book/show/47281.Number_the_Stars,8.333219879321236
+The Memory Keeper's Daughter,Kim Edwards,3.7,610229,73227.48,https://www.goodreads.com/book/show/10441.The_Memory_Keeper_s_Daughter,8.33321953425771
+"The Wise Man's Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss,4.55,609632,73155.84,https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear,8.333219422818154
+"Moby-Dick or, The Whale",Herman Melville,3.56,607162,72859.44,https://www.goodreads.com/book/show/153747.Moby_Dick_or_The_Whale,8.333218959424347
+"Once Upon a Broken Heart (Once Upon a Broken Heart, #1)",Stephanie Garber,4.06,604216,72505.92,https://www.goodreads.com/book/show/55987278-once-upon-a-broken-heart,8.333218401774618
+Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,4.06,601512,72181.44,https://www.goodreads.com/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass,8.333217885125523
+"The Magician’s Nephew (Chronicles of Narnia, #6)",C.S. Lewis,4.05,593158,71178.95999999999,https://www.goodreads.com/book/show/65605.The_Magician_s_Nephew,8.333216259183063
+"The Hawthorne Legacy (The Inheritance Games, #2)",Jennifer Lynn Barnes,4.19,592973,71156.76,https://www.goodreads.com/book/show/50531218-the-hawthorne-legacy,8.333216222657937
+Watchmen,Alan             Moore,4.39,589338,70720.56,https://www.goodreads.com/book/show/472331.Watchmen,8.333215500336815
+"Foundation (Foundation, #1)",Isaac Asimov,4.17,586006,70320.72,https://www.goodreads.com/book/show/29579.Foundation,8.33321483035398
+"Inferno (Robert Langdon, #4)",Dan    Brown,3.9,584775,70173.0,https://www.goodreads.com/book/show/17212231-inferno,8.333214580898908
+Bridge to Terabithia,Katherine Paterson,4.06,583095,69971.4,https://www.goodreads.com/book/show/40940121-bridge-to-terabithia,8.333214238756996
+"The Eye of the World (The Wheel of Time, #1)",Robert Jordan,4.19,581411,69769.31999999999,https://www.goodreads.com/book/show/228665.The_Eye_of_the_World,8.333213893816168
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,4.26,581396,69767.52,https://www.goodreads.com/book/show/23807.The_Silence_of_the_Lambs,8.333213890734674
+"Call Me By Your Name (Call Me By Your Name, #1)",André Aciman,4.1,581321,69758.52,https://www.goodreads.com/book/show/36336078-call-me-by-your-name,8.33321387532483
+"Clockwork Prince (The Infernal Devices, #2)",Cassandra Clare,4.42,580852,69702.23999999999,https://www.goodreads.com/book/show/10025305-clockwork-prince,8.333213778871686
+"The Cat in the Hat (Cat in the Hat, #1)",Dr. Seuss,4.19,578802,69456.23999999999,https://www.goodreads.com/book/show/233093.The_Cat_in_the_Hat,8.33321335543998
+"One for the Money (Stephanie Plum, #1)",Janet Evanovich,4.05,575232,69027.84,https://www.goodreads.com/book/show/6853.One_for_the_Money,8.333212610844974
+"I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",Maya Angelou,4.3,573117,68774.04,https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings,8.333212165343706
+A Flicker in the Dark,Stacy Willingham,3.98,572985,68758.2,https://www.goodreads.com/book/show/57693172-a-flicker-in-the-dark,8.333212137430337
+A Midsummer Night’s Dream,William Shakespeare,3.94,571500,68580.0,https://www.goodreads.com/book/show/1622.A_Midsummer_Night_s_Dream,8.333211822516441
+The Last Song,Nicholas Sparks,4.16,569521,68342.52,https://www.goodreads.com/book/show/6400090-the-last-song,8.333211400290766
+Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,3.86,566774,68012.88,https://www.goodreads.com/book/show/137791.Divine_Secrets_of_the_Ya_Ya_Sisterhood,8.333210809323038
+"The Bad Beginning (A Series of Unfortunate Events, #1)",Lemony Snicket,4.02,562777,67533.23999999999,https://www.goodreads.com/book/show/78411.The_Bad_Beginning,8.33320993913606
+The Graveyard Book,Neil Gaiman,4.15,562524,67502.88,https://www.goodreads.com/book/show/2213661.The_Graveyard_Book,8.333209883639281
+"City of Lost Souls (The Mortal Instruments, #5)",Cassandra Clare,4.21,561876,67425.12,https://www.goodreads.com/book/show/8755776-city-of-lost-souls,8.333209741269409
+"The Hero of Ages (Mistborn, #3)",Brandon Sanderson,4.56,561300,67356.0,https://www.goodreads.com/book/show/2767793-the-hero-of-ages,8.333209614442449
+World War Z: An Oral History of the Zombie War,Max Brooks,4.02,560050,67206.0,https://www.goodreads.com/book/show/8908.World_War_Z,8.333209338312974
+"Artemis Fowl (Artemis Fowl, #1)",Eoin Colfer,3.86,559812,67177.44,https://www.goodreads.com/book/show/249747.Artemis_Fowl,8.333209285598176
+"Legend (Legend, #1)",Marie Lu,4.15,558663,67039.56,https://www.goodreads.com/book/show/9275658-legend,8.333209030473492
+"Dead Until Dark (Sookie Stackhouse, #1)",Charlaine Harris,3.97,557828,66939.36,https://www.goodreads.com/book/show/301082.Dead_Until_Dark,8.333208844410159
+"Neverwhere (London Below, #1)",Neil Gaiman,4.16,557668,66920.16,https://www.goodreads.com/book/show/14497.Neverwhere,8.333208808693692
+The Art of War,Sun Tzu,3.95,557158,66858.95999999999,https://www.goodreads.com/book/show/10534.The_Art_of_War,8.333208694710557
+The Time Machine,H.G. Wells,3.89,556773,66812.76,https://www.goodreads.com/book/show/2493.The_Time_Machine,8.33320860852615
+Into Thin Air: A Personal Account of the Mt. Everest Disaster,Jon Krakauer,4.26,556425,66771.0,https://www.goodreads.com/book/show/1898.Into_Thin_Air,8.333208530521775
+Atonement,Ian McEwan,3.95,556121,66734.52,https://www.goodreads.com/book/show/6867.Atonement,8.333208462300137
+The Only One Left,Riley Sager,4.13,549880,65985.59999999999,https://www.goodreads.com/book/show/62703226-the-only-one-left,8.333207045066727
+Heart of Darkness,Joseph Conrad,3.43,549862,65983.44,https://www.goodreads.com/book/show/4900.Heart_of_Darkness,8.333207040932681
+The Art of Racing in the Rain,Garth Stein,4.23,548626,65835.12,https://www.goodreads.com/book/show/3153910-the-art-of-racing-in-the-rain,8.333206756412741
+"Bared to You (Crossfire, #1)",Sylvia Day,4.13,547642,65717.04,https://www.goodreads.com/book/show/20448515-bared-to-you,8.333206528983519
+An Abundance of Katherines,John Green,3.51,546962,65635.44,https://www.goodreads.com/book/show/49750.An_Abundance_of_Katherines,8.333206371338848
+"A Discovery of Witches (All Souls, #1)",Deborah Harkness,4.02,546932,65631.84,https://www.goodreads.com/book/show/8667848-a-discovery-of-witches,8.333206364374908
+"The Family Upstairs (The Family Upstairs, #1)",Lisa Jewell,3.96,542756,65130.72,https://www.goodreads.com/book/show/43822820-the-family-upstairs,8.333205387482474
+The Very Hungry Caterpillar,Eric Carle,4.34,541178,64941.36,https://www.goodreads.com/book/show/4948.The_Very_Hungry_Caterpillar,8.33320501441586
+Love in the Time of Cholera,Gabriel García Márquez,3.94,539655,64758.6,https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera,8.333204652283214
+"As Good As Dead (A Good Girl's Guide to Murder, #3)",Holly  Jackson,4.19,539533,64743.96,https://www.goodreads.com/book/show/56905097-as-good-as-dead,8.333204623186115
+Perfume: The Story of a Murderer,Patrick Süskind,4.04,537474,64496.88,https://www.goodreads.com/book/show/343.Perfume,8.333204130120246
+Kafka on the Shore,Haruki Murakami,4.12,535497,64259.64,https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore,8.333203653122657
+Treasure Island,Robert Louis Stevenson,3.85,532578,63909.36,https://www.goodreads.com/book/show/295.Treasure_Island,8.333202942371159
+The Unbearable Lightness of Being,Milan Kundera,4.11,531459,63775.079999999994,https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being,8.333202667834085
+Hidden Pictures,Jason Rekulak,4.15,530715,63685.799999999996,https://www.goodreads.com/book/show/58724923-hidden-pictures,8.333202484659303
+"The Secret (The Secret, #1)",Rhonda Byrne,3.74,524396,62927.52,https://www.goodreads.com/book/show/52529.The_Secret,8.333200907950799
+The BFG,Roald Dahl,4.23,519689,62362.68,https://www.goodreads.com/book/show/6319.The_BFG,8.333199708548308
+"Marked (House of Night, #1)",P.C. Cast,3.82,519662,62359.439999999995,https://www.goodreads.com/book/show/30183.Marked,8.333199701605698
+Hello Beautiful,Ann Napolitano,4.13,513125,61575.0,https://www.goodreads.com/book/show/61771675-hello-beautiful,8.333197999220475
+"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Philippa Gregory,4.09,510328,61239.36,https://www.goodreads.com/book/show/37470.The_Other_Boleyn_Girl,8.333197257494893
+All Quiet on the Western Front,Erich Maria Remarque,4.11,510080,61209.6,https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front,8.333197191336142
+James and the Giant Peach,Roald Dahl,4.04,509211,61105.32,https://www.goodreads.com/book/show/6689.James_and_the_Giant_Peach,8.333196959005223
+"The Tales of Beedle the Bard (Hogwarts Library, #3)",J.K. Rowling,4.03,508867,61064.04,https://www.goodreads.com/book/show/3950967-the-tales-of-beedle-the-bard,8.333196866816102
+The Screwtape Letters,C.S. Lewis,4.27,505841,60700.92,https://www.goodreads.com/book/show/8130077-the-screwtape-letters,8.33319605047089
+A Tree Grows in Brooklyn,Betty  Smith,4.3,503843,60461.159999999996,https://www.goodreads.com/book/show/14891.A_Tree_Grows_in_Brooklyn,8.333195506081822
+"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,4.0,502743,60329.159999999996,https://www.goodreads.com/book/show/236093.The_Wonderful_Wizard_of_Oz,8.333195204521255
+Do Androids Dream of Electric Sheep?,Philip K. Dick,4.09,502096,60251.52,https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep,8.333195026531671
+"Watership Down (Watership Down, #1)",Richard  Adams,4.09,501368,60164.159999999996,https://www.goodreads.com/book/show/76620.Watership_Down,8.333194825709764
+"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",C.S. Lewis,4.09,500826,60099.119999999995,https://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader,8.33319467581762
+The Iliad,Homer,3.93,499705,59964.6,https://www.goodreads.com/book/show/1371.The_Iliad,8.333194364769135
+"Shiver (The Wolves of Mercy Falls, #1)",Maggie Stiefvater,3.76,494614,59353.68,https://www.goodreads.com/book/show/6068551-shiver,8.333192934407194
+"The Death Cure (The Maze Runner, #3)",James Dashner,3.78,491852,59022.24,https://www.goodreads.com/book/show/7864437-the-death-cure,8.333192146008928
+Sarah's Key,Tatiana de Rosnay,4.18,491733,59007.96,https://www.goodreads.com/book/show/556602.Sarah_s_Key,8.333192111842
+"A Study in Scarlet (Sherlock Holmes, #1)",Arthur Conan Doyle,4.13,486291,58354.92,https://www.goodreads.com/book/show/102868.A_Study_in_Scarlet,8.333190531483353
+The Sun Also Rises,Ernest Hemingway,3.79,486050,58326.0,https://www.goodreads.com/book/show/3876.The_Sun_Also_Rises,8.333190460678589
+"Eldest (The Inheritance Cycle, #2)",Christopher Paolini,4.05,484566,58147.92,https://www.goodreads.com/book/show/45978.Eldest,8.333190023133707
+"Beloved (Beloved Trilogy, #1)",Toni Morrison,3.97,481236,57748.32,https://www.goodreads.com/book/show/6149.Beloved,8.333189031489894
+"Graceling (Graceling Realm, #1)",Kristin Cashore,4.06,477970,57356.4,https://www.goodreads.com/book/show/3236307-graceling,8.333188045483233
+Stardust,Neil Gaiman,4.1,477826,57339.119999999995,https://www.goodreads.com/book/show/16793.Stardust,8.333188001699334
+"Delirium (Delirium, #1)",Lauren Oliver,3.95,477547,57305.64,https://www.goodreads.com/book/show/11614718-delirium,8.333187916792888
+"The 5th Wave (The 5th Wave, #1)",Rick Yancey,4.0,476519,57182.28,https://www.goodreads.com/book/show/16101128-the-5th-wave,8.333187603089575
+"Prince Caspian (Chronicles of Narnia, #2)",C.S. Lewis,3.98,476412,57169.439999999995,https://www.goodreads.com/book/show/121749.Prince_Caspian,8.333187570359788
+Marley and Me: Life and Love With the World’s Worst Dog,John Grogan,4.14,475965,57115.799999999996,https://www.goodreads.com/book/show/12691.Marley_and_Me,8.333187433469663
+"The House of Hades (The Heroes of Olympus, #4)",Rick Riordan,4.57,473529,56823.479999999996,https://www.goodreads.com/book/show/12127810-the-house-of-hades,8.333186682922571
+"Clockwork Princess (The Infernal Devices, #3)",Cassandra Clare,4.55,472657,56718.84,https://www.goodreads.com/book/show/18335634-clockwork-princess,8.33318641237352
+A Light in the Attic,Shel Silverstein,4.36,472602,56712.24,https://www.goodreads.com/book/show/30118.A_Light_in_the_Attic,8.3331863952756
+The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,4.28,472063,56647.56,https://www.goodreads.com/book/show/23878688-the-5-love-languages,8.333186227505166
+A Brief History of Time,Stephen Hawking,4.21,471065,56527.799999999996,https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time,8.333185915851743
+"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson,4.76,464887,55786.439999999995,https://www.goodreads.com/book/show/17332218-words-of-radiance,8.333183956818955
+The Call of the Wild,Jack London,3.91,464807,55776.84,https://www.goodreads.com/book/show/1852.The_Call_of_the_Wild,8.33318393110956
+"Simon vs. the Homo Sapiens Agenda (Simonverse, #1)",Becky Albertalli,4.13,464034,55684.079999999994,https://www.goodreads.com/book/show/19547856-simon-vs-the-homo-sapiens-agenda,8.33318368223589
+"Anna and the French Kiss (Anna and the French Kiss, #1)",Stephanie Perkins,3.96,463596,55631.52,https://www.goodreads.com/book/show/6936382-anna-and-the-french-kiss,8.333183540849848
+"A Child Called ""It"" (Dave Pelzer, #1)",Dave Pelzer,4.14,456995,54839.4,https://www.goodreads.com/book/show/60748.A_Child_Called_It_,8.333181377232842
+"The Godfather (The Godfather, #1)",Mario Puzo,4.4,456600,54792.0,https://www.goodreads.com/book/show/22034.The_Godfather,8.33318124577957
+The Crucible,Arthur Miller,3.61,455490,54658.799999999996,https://www.goodreads.com/book/show/17250.The_Crucible,8.33318087515871
+"The Subtle Knife (His Dark Materials, #2)",Philip Pullman,4.15,455261,54631.32,https://www.goodreads.com/book/show/41637836-the-subtle-knife,8.333180798472407
+"Scarlet (The Lunar Chronicles, #2)",Marissa Meyer,4.23,455226,54627.119999999995,https://www.goodreads.com/book/show/13206760-scarlet,8.333180786744995
+Northanger Abbey,Jane Austen,3.85,443744,53249.28,https://www.goodreads.com/book/show/50398.Northanger_Abbey,8.33317683963352
+"The Poppy War (The Poppy War, #1)",R.F. Kuang,4.17,443140,53176.799999999996,https://www.goodreads.com/book/show/35068705-the-poppy-war,8.333176626336554
+On the Road,Jack Kerouac,3.61,442069,53048.28,https://www.goodreads.com/book/show/70401.On_the_Road,8.33317624668987
+How the Grinch Stole Christmas!,Dr. Seuss,4.38,441322,52958.64,https://www.goodreads.com/book/show/113946.How_the_Grinch_Stole_Christmas_,8.333175980803494
+"Inkheart (Inkworld, #1)",Cornelia Funke,3.93,440209,52825.079999999994,https://www.goodreads.com/book/show/28194.Inkheart,8.333175582969625
+"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum,4.05,439880,52785.6,https://www.goodreads.com/book/show/7869.The_Bourne_Identity,8.333175464985432
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,4.07,439429,52731.479999999996,https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods,8.333175302963184
+"Slammed (Slammed, #1)",Colleen Hoover,4.14,439248,52709.759999999995,https://www.goodreads.com/book/show/30333938-slammed,8.333175237845177
+"The Ballad of Never After (Once Upon a Broken Heart, #2)",Stephanie Garber,4.49,438938,52672.56,https://www.goodreads.com/book/show/59808071-the-ballad-of-never-after,8.333175126192344
+"Oh, the Places You’ll Go!",Dr. Seuss,4.37,437482,52497.84,https://www.goodreads.com/book/show/191139.Oh_the_Places_You_ll_Go_,8.333174599667345
+Where the Red Fern Grows,Wilson Rawls,4.12,435587,52270.439999999995,https://www.goodreads.com/book/show/10365.Where_the_Red_Fern_Grows,8.333173909117484
+"Howl’s Moving Castle (Howl’s Moving Castle, #1)",Diana Wynne Jones,4.29,433058,51966.96,https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle,8.333172978119595
+Extremely Loud & Incredibly Close,Jonathan Safran Foer,3.97,432934,51952.079999999994,https://www.goodreads.com/book/show/4588.Extremely_Loud_Incredibly_Close,8.333172932191895
+Cat’s Cradle,Kurt Vonnegut Jr.,4.15,431298,51755.759999999995,https://www.goodreads.com/book/show/135479.Cat_s_Cradle,8.333172323769881
+Othello,William Shakespeare,3.89,430651,51678.119999999995,https://www.goodreads.com/book/show/12996.Othello,8.333172081877557
+The Witches,Roald Dahl,4.18,422838,50740.56,https://www.goodreads.com/book/show/6327.The_Witches,8.33316910240836
+"Ella Enchanted (Ella Enchanted, #1)",Gail Carson Levine,4.02,422376,50685.119999999995,https://www.goodreads.com/book/show/24337.Ella_Enchanted,8.333168922774124
+Oliver Twist,Charles Dickens,3.88,422242,50669.04,https://www.goodreads.com/book/show/18254.Oliver_Twist,8.333168870598879
+Babel,R.F. Kuang,4.15,422052,50646.24,https://www.goodreads.com/book/show/57945316-babel,8.333168796562262
+"The Red Pyramid (The Kane Chronicles, #1)",Rick Riordan,4.1,421576,50589.119999999995,https://www.goodreads.com/book/show/7090447-the-red-pyramid,8.333168610788036
+"A Darker Shade of Magic (Shades of Magic, #1)",V.E. Schwab,4.04,421022,50522.64,https://www.goodreads.com/book/show/22055262-a-darker-shade-of-magic,8.333168394042868
+Cutting for Stone,Abraham   Verghese,4.33,420732,50487.84,https://www.goodreads.com/book/show/3591262-cutting-for-stone,8.33316828035661
+"The Color of Magic (Discworld, #1; Rincewind, #1)",Terry Pratchett,3.99,416455,49974.6,https://www.goodreads.com/book/show/34497.The_Color_of_Magic,8.333166585293624
+A Short History of Nearly Everything,Bill Bryson,4.22,415819,49898.28,https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything,8.333166330255667
+Nineteen Minutes,Jodi Picoult,4.17,413081,49569.72,https://www.goodreads.com/book/show/14866.Nineteen_Minutes,8.33316522334152
+"City of Heavenly Fire (The Mortal Instruments, #6)",Cassandra Clare,4.38,411282,49353.84,https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire,8.333164488021843
+"Brisingr (The Inheritance Cycle, #3)",Christopher Paolini,4.11,408997,49079.64,https://www.goodreads.com/book/show/2248573.Brisingr,8.333163544729652
+The Master and Margarita,Mikhail Bulgakov,4.28,407660,48919.2,https://www.goodreads.com/book/show/117833.The_Master_and_Margarita,8.333162987886395
+"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe,3.74,406104,48732.479999999996,https://www.goodreads.com/book/show/37781.Things_Fall_Apart,8.333162335215954
+"Corrupt (Devil's Night, #1)",Penelope Douglas,3.78,404653,48558.36,https://www.goodreads.com/book/show/58124274-corrupt,8.33316172206553
+Atlas Shrugged,Ayn Rand,3.69,404218,48506.159999999996,https://www.goodreads.com/book/show/662.Atlas_Shrugged,8.333161537389532
+One Day,David Nicholls,3.87,403510,48421.2,https://www.goodreads.com/book/show/6280118-one-day,8.333161235962018
+The Virgin Suicides,Jeffrey Eugenides,3.78,401610,48193.2,https://www.goodreads.com/book/show/10956.The_Virgin_Suicides,8.333160421793494
+The Importance of Being Earnest,Oscar Wilde,4.17,400094,48011.28,https://www.goodreads.com/book/show/92303.The_Importance_of_Being_Earnest,8.333159766626371
+"Cress (The Lunar Chronicles, #3)",Marissa Meyer,4.4,399280,47913.6,https://www.goodreads.com/book/show/13206828-cress,8.333159412788586
+"Scythe (Arc of a Scythe, #1)",Neal Shusterman,4.32,397925,47751.0,https://www.goodreads.com/book/show/28954189-scythe,8.33315882057296
+"The Raven Boys (The Raven Cycle, #1)",Maggie Stiefvater,4.05,397558,47706.96,https://www.goodreads.com/book/show/17675462-the-raven-boys,8.33315865947737
+Alice in Wonderland,Jane Carruth,4.03,396175,47541.0,https://www.goodreads.com/book/show/13023.Alice_in_Wonderland,8.333158049724455
+"P.S. I Love You (P.S. I Love You, #1)",Cecelia Ahern,4.03,395056,47406.72,https://www.goodreads.com/book/show/366522.P_S_I_Love_You,8.333157553242383
+Goodnight Moon,Margaret Wise Brown,4.32,391362,46963.439999999995,https://www.goodreads.com/book/show/32929.Goodnight_Moon,8.333155894119042
+"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,4.38,391302,46956.24,https://www.goodreads.com/book/show/99107.Winnie_the_Pooh,8.33315586691211
+The Name of the Rose,Umberto Eco,4.14,390217,46826.04,https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose,8.33315537347652
+Like Water for Chocolate,Laura Esquivel,3.95,389738,46768.56,https://www.goodreads.com/book/show/6952.Like_Water_for_Chocolate,8.333155154763055
+"The Hunt for Red October (Jack Ryan, #3)",Tom Clancy,4.12,386331,46359.72,https://www.goodreads.com/book/show/19691.The_Hunt_for_Red_October,8.333153583464622
+If We Were Villains,M.L. Rio,4.1,385611,46273.32,https://www.goodreads.com/book/show/30319086-if-we-were-villains,8.333153247848914
+"Assassin's Apprentice (Farseer Trilogy, #1)",Robin Hobb,4.19,385606,46272.72,https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice,8.333153245513868
+On Earth We're Briefly Gorgeous,Ocean Vuong,4.02,385046,46205.52,https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous,8.333152983604911
+"The Horse and His Boy (Chronicles of Narnia, #5)",C.S. Lewis,3.91,385039,46204.68,https://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy,8.333152980326227
+Snow Flower and the Secret Fan,Lisa See,4.09,384167,46100.04,https://www.goodreads.com/book/show/40873273-snow-flower-and-the-secret-fan,8.333152570961522
+"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",Laini Taylor,3.99,382973,45956.759999999995,https://www.goodreads.com/book/show/8490112-daughter-of-smoke-bone,8.333152007408543
+"The Blood of Olympus (The Heroes of Olympus, #5)",Rick Riordan,4.43,382495,45899.4,https://www.goodreads.com/book/show/18705209-the-blood-of-olympus,8.333151780812367
+The Trial,Franz Kafka,3.94,382376,45885.119999999995,https://www.goodreads.com/book/show/17690.The_Trial,8.333151724312277
+"Dragonfly in Amber (Outlander, #2)",Diana Gabaldon,4.34,380604,45672.479999999996,https://www.goodreads.com/book/show/5364.Dragonfly_in_Amber,8.333150878803192
+Their Eyes Were Watching God,Zora Neale Hurston,3.99,380545,45665.4,https://www.goodreads.com/book/show/37415.Their_Eyes_Were_Watching_God,8.333150850515915
+"The Hound of the Baskervilles (Sherlock Holmes, #5)",Arthur Conan Doyle,4.14,380068,45608.159999999996,https://www.goodreads.com/book/show/8921.The_Hound_of_the_Baskervilles,8.333150621497962
+"Shadow Kiss (Vampire Academy, #3)",Richelle Mead,4.33,379174,45500.88,https://www.goodreads.com/book/show/2802316-shadow-kiss,8.333150190717395
+"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman,4.11,378500,45420.0,https://www.goodreads.com/book/show/18122.The_Amber_Spyglass,8.333149864600076
+The Prince,Niccolò Machiavelli,3.84,375379,45045.479999999996,https://www.goodreads.com/book/show/28862.The_Prince,8.333148339226506
+The Brothers Karamazov,Fyodor Dostoevsky,4.39,375333,45039.96,https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov,8.333148316554531
+John Adams,David McCullough,4.08,374793,44975.159999999996,https://www.goodreads.com/book/show/2203.John_Adams,8.33314804998915
+Mansfield Park,Jane Austen,3.86,374593,44951.159999999996,https://www.goodreads.com/book/show/45032.Mansfield_Park,8.3331479510662
+"Storm Front (The Dresden Files, #1)",Jim  Butcher,3.97,373350,44802.0,https://www.goodreads.com/book/show/47212.Storm_Front,8.333147333883892
+Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,Hunter S. Thompson,4.06,373290,44794.799999999996,https://www.goodreads.com/book/show/7745.Fear_and_Loathing_in_Las_Vegas,8.333147303988321
+"I, Robot (Robot, #0.1)",Isaac Asimov,4.21,372887,44746.439999999995,https://www.goodreads.com/book/show/41804.I_Robot,8.333147102940416
+The Haunting of Hill House,Shirley Jackson,3.81,372148,44657.759999999995,https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House,8.333146733138136
+Peter Pan,J.M. Barrie,4.03,370494,44459.28,https://www.goodreads.com/book/show/34268.Peter_Pan,8.333145900115788
+"Frostbite (Vampire Academy, #2)",Richelle Mead,4.25,369940,44392.799999999996,https://www.goodreads.com/book/show/2282133.Frostbite,8.333145619433346
+Madame Bovary,Gustave Flaubert,3.71,367645,44117.4,https://www.goodreads.com/book/show/2175.Madame_Bovary,8.333144447668094
+"Red Dragon (Hannibal Lecter, #1)",Thomas  Harris,4.07,367640,44116.799999999996,https://www.goodreads.com/book/show/28877.Red_Dragon,8.333144445099258
+The Lorax,Dr. Seuss,4.35,365607,43872.84,https://www.goodreads.com/book/show/7784.The_Lorax,8.33314339478833
+White Oleander,Janet Fitch,4.0,364475,43737.0,https://www.goodreads.com/book/show/32234.White_Oleander,8.333142804883625
+Before I Go to Sleep,S.J. Watson,3.9,364279,43713.479999999996,https://www.goodreads.com/book/show/9736930-before-i-go-to-sleep,8.333142702372305
+"Reflected in You (Crossfire, #2)",Sylvia Day,4.3,363591,43630.92,https://www.goodreads.com/book/show/13596809-reflected-in-you,8.333142341661793
+Redeeming Love,Francine  Rivers,4.51,363465,43615.799999999996,https://www.goodreads.com/book/show/11422.Redeeming_Love,8.333142275453495
+The Thorn Birds,Colleen McCullough,4.25,362415,43489.799999999996,https://www.goodreads.com/book/show/3412.The_Thorn_Birds,8.333141721927397
+The Last Lecture,Randy Pausch,4.26,360782,43293.84,https://www.goodreads.com/book/show/40611510-the-last-lecture,8.33314085466074
+War and Peace,Leo Tolstoy,4.17,359747,43169.64,https://www.goodreads.com/book/show/656.War_and_Peace,8.33314030090821
+She’s Come Undone,Wally Lamb,3.92,359149,43097.88,https://www.goodreads.com/book/show/5203.She_s_Come_Undone,8.333139979507589
+Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson,3.66,358342,43001.04,https://www.goodreads.com/book/show/49436.Three_Cups_of_Tea,8.333139544077444
+"Neuromancer (Sprawl, #1)",William Gibson,3.89,357615,42913.799999999996,https://www.goodreads.com/book/show/6088007-neuromancer,8.333139150130027
+Still Alice,Lisa Genova,4.32,357586,42910.32,https://www.goodreads.com/book/show/2153405.Still_Alice,8.333139134382256
+The Green Mile,Stephen        King,4.49,355205,42624.6,https://www.goodreads.com/book/show/11566.The_Green_Mile,8.333137832663938
+I'll Give You the Sun,Jandy Nelson,4.15,355097,42611.64,https://www.goodreads.com/book/show/20820994-i-ll-give-you-the-sun,8.333137773205321
+American Psycho,Bret Easton Ellis,3.8,353122,42374.64,https://www.goodreads.com/book/show/28676.American_Psycho,8.33313667946962
+"A Wizard of Earthsea (Earthsea Cycle, #1)",Ursula K. Le Guin,4.01,352942,42353.04,https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea,8.33313657917875
+"Dark Lover (Black Dagger Brotherhood, #1)",J.R. Ward,4.15,352289,42274.68,https://www.goodreads.com/book/show/42899.Dark_Lover,8.333136214485492
+The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.48,350981,42117.72,https://www.goodreads.com/book/show/561909.The_Hiding_Place,8.333135479900623
+"I Am Number Four (Lorien Legacies, #1)",Pittacus Lore,3.94,350476,42057.119999999995,https://www.goodreads.com/book/show/7747374-i-am-number-four,8.333135194820882
+The Remains of the Day,Kazuo Ishiguro,4.14,349313,41917.56,https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day,8.333134535155788
+A Farewell to Arms,Ernest Hemingway,3.82,347457,41694.84,https://www.goodreads.com/book/show/10799.A_Farewell_to_Arms,8.333133473267358
+Island of the Blue Dolphins,Scott O'Dell,3.88,347150,41658.0,https://www.goodreads.com/book/show/41044096-island-of-the-blue-dolphins,8.333133296526562
+Mrs. Dalloway,Virginia Woolf,3.78,347124,41654.88,https://www.goodreads.com/book/show/14942.Mrs_Dalloway,8.333133281543926
+The Three Musketeers,Alexandre Dumas,4.1,346711,41605.32,https://www.goodreads.com/book/show/7190.The_Three_Musketeers,8.333133043249198
+Before I Fall,Lauren Oliver,3.88,345008,41400.96,https://www.goodreads.com/book/show/6482837-before-i-fall,8.333132054617705
+The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman,4.07,344402,41328.24,https://www.goodreads.com/book/show/99300.The_Yellow_Wallpaper_and_Other_Stories,8.33313170046195
+The War of the Worlds,H.G. Wells,3.83,343809,41257.08,https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds,8.333131352695036
+Beowulf,Unknown,3.5,340682,40881.84,https://www.goodreads.com/book/show/52357.Beowulf,8.333129498831296
+The Things They Carried,Tim O'Brien,4.14,339793,40775.159999999996,https://www.goodreads.com/book/show/133518.The_Things_They_Carried,8.333128965552422
+"An Ember in the Ashes (An Ember in the Ashes, #1)",Sabaa Tahir,4.24,338876,40665.119999999995,https://www.goodreads.com/book/show/27774758-an-ember-in-the-ashes,8.333128412545875
+"The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams,4.38,335888,40306.56,https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy,8.333126589652165
+"Crescendo (Hush, Hush, #2)",Becca Fitzpatrick,3.98,335717,40286.04,https://www.goodreads.com/book/show/7791997-crescendo,8.333126484348316
+"1Q84 (1Q84, #1-3)",Haruki Murakami,3.95,335301,40236.119999999995,https://www.goodreads.com/book/show/10357575-1q84,8.333126227722065
+The Fountainhead,Ayn Rand,3.89,335087,40210.439999999995,https://www.goodreads.com/book/show/2122.The_Fountainhead,8.333126095459402
+"Stargirl (Stargirl, #1)",Jerry Spinelli,3.77,334969,40196.28,https://www.goodreads.com/book/show/22232.Stargirl,8.333126022457241
+A Prayer for Owen Meany,John Irving,4.24,333930,40071.6,https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany,8.333125377439947
+"The Murder of Roger Ackroyd (Hercule Poirot, #4)",Agatha Christie,4.26,333679,40041.479999999996,https://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd,8.333125221015283
+"2001: A Space Odyssey (Space Odyssey, #1)",Arthur C. Clarke,4.18,332400,39888.0,https://www.goodreads.com/book/show/70535.2001,8.33312442026624
+"The Lies of Locke Lamora (Gentleman Bastard, #1)",Scott Lynch,4.3,331933,39831.96,https://www.goodreads.com/book/show/29588376-the-lies-of-locke-lamora,8.333124126351645
+"Carry On (Simon Snow, #1)",Rainbow Rowell,4.16,331093,39731.159999999996,https://www.goodreads.com/book/show/32768522-carry-on,8.333123595596112
+A Streetcar Named Desire,Tennessee Williams,3.98,330766,39691.92,https://www.goodreads.com/book/show/12220.A_Streetcar_Named_Desire,8.333123388251607
+Blindness,José Saramago,4.18,329483,39537.96,https://www.goodreads.com/book/show/40495148-blindness,8.33312257075047
+Meditations,Marcus Aurelius,4.28,328976,39477.119999999995,https://www.goodreads.com/book/show/30659.Meditations,8.333122245942818
+The Silmarillion,J.R.R. Tolkien,4.03,328417,39410.04,https://www.goodreads.com/book/show/7332.The_Silmarillion,8.33312188665917
+"Voyager (Outlander, #3)",Diana Gabaldon,4.39,327240,39268.799999999996,https://www.goodreads.com/book/show/10987.Voyager,8.333121126158016
+Robinson Crusoe,Daniel Defoe,3.68,327234,39268.08,https://www.goodreads.com/book/show/2932.Robinson_Crusoe,8.333121122267189
+The Very Secret Society of Irregular Witches,Sangu Mandanna,4.05,325269,39032.28,https://www.goodreads.com/book/show/60018635-the-very-secret-society-of-irregular-witches,8.33311984030038
+"Blood Promise (Vampire Academy, #4)",Richelle Mead,4.3,325252,39030.24,https://www.goodreads.com/book/show/5996153-blood-promise,8.33311982914199
+"The Silver Chair (Chronicles of Narnia, #4)",C.S. Lewis,3.95,325049,39005.88,https://www.goodreads.com/book/show/65641.The_Silver_Chair,8.33311969580751
+Stranger in a Strange Land,Robert A. Heinlein,3.92,324490,38938.799999999996,https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land,8.333119327782887
+The Thirteenth Tale,Diane Setterfield,3.98,324193,38903.159999999996,https://www.goodreads.com/book/show/40440.The_Thirteenth_Tale,8.333119131732957
+The Prophet,Kahlil Gibran,4.23,323698,38843.76,https://www.goodreads.com/book/show/2547.The_Prophet,8.333118804183627
+Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,4.28,323368,38804.159999999996,https://www.goodreads.com/book/show/9375.Fried_Green_Tomatoes_at_the_Whistle_Stop_Cafe,8.333118585260312
+I Know This Much Is True,Wally Lamb,4.21,322542,38705.04,https://www.goodreads.com/book/show/227711.I_Know_This_Much_Is_True,8.33311803532472
+"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",Arthur Conan Doyle,4.3,322311,38677.32,https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes,8.333117881024823
+V for Vendetta,Alan             Moore,4.26,322211,38665.32,https://www.goodreads.com/book/show/5805.V_for_Vendetta,8.333117814159714
+A Little Princess,Frances Hodgson Burnett,4.23,321783,38613.96,https://www.goodreads.com/book/show/3008.A_Little_Princess,8.333117527507474
+Under the Dome,Stephen        King,3.93,319900,38388.0,https://www.goodreads.com/book/show/6320534-under-the-dome,8.333116257261194
+The God of Small Things,Arundhati Roy,3.96,319602,38352.24,https://www.goodreads.com/book/show/9777.The_God_of_Small_Things,8.333116054862641
+This Is How You Lose the Time War,Amal El-Mohtar,3.85,317439,38092.68,https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war,8.333114574386093
+Bel Canto,Ann Patchett,3.94,315778,37893.36,https://www.goodreads.com/book/show/5826.Bel_Canto,8.333113423739047
+For Whom the Bell Tolls,Ernest Hemingway,3.99,313675,37641.0,https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls,8.333111949418203
+On Writing: A Memoir of the Craft,Stephen        King,4.34,312752,37530.24,https://www.goodreads.com/book/show/10569.On_Writing,8.333111296082944
+"The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)",Douglas Adams,4.2,311856,37422.72,https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe,8.333110658160118
+The Holy Bible: King James Version,Anonymous,4.44,311531,37383.72,https://www.goodreads.com/book/show/1923820.The_Holy_Bible,8.333110425863829
+The House of the Spirits,Isabel Allende,4.29,309883,37185.96,https://www.goodreads.com/book/show/9328.The_House_of_the_Spirits,8.333109240443424
+The Wind-Up Bird Chronicle,Haruki Murakami,4.14,309546,37145.52,https://www.goodreads.com/book/show/11275.The_Wind_Up_Bird_Chronicle,8.33310899648204
+"Winter (The Lunar Chronicles, #4)",Marissa Meyer,4.41,306635,36796.2,https://www.goodreads.com/book/show/13206900-winter,8.333106866826824
+"Spirit Bound (Vampire Academy, #5)",Richelle Mead,4.32,305920,36710.4,https://www.goodreads.com/book/show/6479259-spirit-bound,8.333106337540928
+"Inheritance (The Inheritance Cycle, #4)",Christopher Paolini,4.16,305692,36683.04,https://www.goodreads.com/book/show/7664041-inheritance,8.333106168241011
+The Plague,Albert Camus,4.02,305117,36614.04,https://www.goodreads.com/book/show/11989.The_Plague,8.333105740154865
+"Where She Went (If I Stay, #2)",Gayle Forman,3.97,304051,36486.119999999995,https://www.goodreads.com/book/show/8492825-where-she-went,8.333104942237153
+The Phantom Tollbooth,Norton Juster,4.2,303523,36422.76,https://www.goodreads.com/book/show/378.The_Phantom_Tollbooth,8.333104544945387
+"Harry Potter Series Box Set (Harry Potter, #1-7)",J.K. Rowling,4.73,300701,36084.119999999995,https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set,8.333102397885888
+"The Last Battle (Chronicles of Narnia, #7)",C.S. Lewis,4.01,300469,36056.28,https://www.goodreads.com/book/show/84369.The_Last_Battle,8.333102219579514
+"Little House on the Prairie (Little House, #3)",Laura Ingalls Wilder,4.21,300149,36017.88,https://www.goodreads.com/book/show/77767.Little_House_on_the_Prairie,8.333101973187397
+Don Quixote,Miguel de Cervantes Saavedra,3.91,299882,35985.84,https://www.goodreads.com/book/show/3836.Don_Quixote,8.333101767201567
+Tess of the D’Urbervilles,Thomas Hardy,3.84,299397,35927.64,https://www.goodreads.com/book/show/32261.Tess_of_the_D_Urbervilles,8.33310139209277
+"Death on the Nile (Hercule Poirot, #18)",Agatha Christie,4.12,298164,35779.68,https://www.goodreads.com/book/show/131359.Death_on_the_Nile,8.33310043297109
+"Last Sacrifice (Vampire Academy, #6)",Richelle Mead,4.37,298082,35769.84,https://www.goodreads.com/book/show/6527740-last-sacrifice,8.333100368903834
+"Evermore (The Immortals, #1)",Alyson Noel,3.6,297676,35721.119999999995,https://www.goodreads.com/book/show/3975774-evermore,8.333100051172776
+Candide,Voltaire,3.76,296874,35624.88,https://www.goodreads.com/book/show/19380.Candide,8.333099420982725
+"The City of Ember (Book of Ember, #1)",Jeanne DuPrau,3.9,296431,35571.72,https://www.goodreads.com/book/show/307791.The_City_of_Ember,8.33309907142327
+Gulliver’s Travels,Jonathan Swift,3.59,295572,35468.64,https://www.goodreads.com/book/show/7733.Gulliver_s_Travels,8.333098390623643
+Black Beauty,Anna Sewell,4.0,295439,35452.68,https://www.goodreads.com/book/show/3685.Black_Beauty,8.333098284860696
+Snow Crash,Neal Stephenson,4.01,294970,35396.4,https://www.goodreads.com/book/show/40651883-snow-crash,8.333097911146016
+"Obsidian (Lux, #1)",Jennifer L. Armentrout,4.13,294334,35320.08,https://www.goodreads.com/book/show/12578077-obsidian,8.333097402457682
+"Silence (Hush, Hush, #3)",Becca Fitzpatrick,4.07,293866,35263.92,https://www.goodreads.com/book/show/10637766-silence,8.33309702673365
+A Confederacy of Dunces,John Kennedy Toole,3.89,293861,35263.32,https://www.goodreads.com/book/show/310612.A_Confederacy_of_Dunces,8.333097022713043
+The Complete Stories and Poems,Edgar Allan Poe,4.4,292891,35146.92,https://www.goodreads.com/book/show/23919.The_Complete_Stories_and_Poems,8.333096240118904
+The Bluest Eye,Toni Morrison,4.13,292201,35064.119999999995,https://www.goodreads.com/book/show/11337.The_Bluest_Eye,8.333095680265746
+Tuck Everlasting,Natalie Babbitt,3.91,291593,34991.159999999996,https://www.goodreads.com/book/show/84981.Tuck_Everlasting,8.333095184749956
+Midnight in the Garden of Good and Evil,John Berendt,3.92,291365,34963.799999999996,https://www.goodreads.com/book/show/386187.Midnight_in_the_Garden_of_Good_and_Evil,8.33309499839839
+"Hyperion (Hyperion Cantos, #1)",Dan Simmons,4.27,290266,34831.92,https://www.goodreads.com/book/show/77566.Hyperion,8.333094096044777
+Go Ask Alice,Beatrice Sparks,3.74,289869,34784.28,https://www.goodreads.com/book/show/46799.Go_Ask_Alice,8.333093768398587
+The Purpose Driven Life: What on Earth Am I Here for?,Rick Warren,3.98,289484,34738.08,https://www.goodreads.com/book/show/56495.The_Purpose_Driven_Life,8.33309344979775
+Home Before Dark,Riley Sager,4.05,288589,34630.68,https://www.goodreads.com/book/show/50833559-home-before-dark,8.333092705869309
+Lock Every Door,Riley Sager,3.89,286845,34421.4,https://www.goodreads.com/book/show/41837243-lock-every-door,8.333091242911593
+"You (You, #1)",Caroline Kepnes,3.96,286606,34392.72,https://www.goodreads.com/book/show/36430011-you,8.333091041038887
+A Monster Calls,Patrick Ness,4.35,286112,34333.44,https://www.goodreads.com/book/show/25480342-a-monster-calls,8.333090622710024
+"Oryx and Crake (MaddAddam, #1)",Margaret Atwood,4.0,283736,34048.32,https://www.goodreads.com/book/show/46756.Oryx_and_Crake,8.33308859031546
+"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,4.21,283157,33978.84,https://www.goodreads.com/book/show/8337.Little_House_in_the_Big_Woods,8.333088089879176
+White Fang,Jack London,4.05,282135,33856.2,https://www.goodreads.com/book/show/43035.White_Fang,8.33308720154059
+The Martian Chronicles,Ray Bradbury,4.16,281700,33804.0,https://www.goodreads.com/book/show/76778.The_Martian_Chronicles,8.333086821476114
+The Namesake,Jhumpa Lahiri,4.02,281400,33768.0,https://www.goodreads.com/book/show/33917.The_Namesake,8.333086558678078
+The God Delusion,Richard Dawkins,3.9,280652,33678.24,https://www.goodreads.com/book/show/14743.The_God_Delusion,8.333085900988266
+"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel,4.1,280066,33607.92,https://www.goodreads.com/book/show/40611463-the-clan-of-the-cave-bear,8.333085383285152
+We Have Always Lived in the Castle,Shirley Jackson,3.92,279213,33505.56,https://www.goodreads.com/book/show/89724.We_Have_Always_Lived_in_the_Castle,8.333084625816557
+"Prodigy (Legend, #2)",Marie Lu,4.22,278711,33445.32,https://www.goodreads.com/book/show/13414446-prodigy,8.33308417787069
+"Betrayed (House of Night, #2)",P.C. Cast,3.92,278529,33423.479999999996,https://www.goodreads.com/book/show/676924.Betrayed,8.333084015069195
+"Pretties (Uglies, #2)",Scott Westerfeld,3.83,278118,33374.159999999996,https://www.goodreads.com/book/show/24768.Pretties,8.333083646640198
+Sophie’s World,Jostein Gaarder,3.97,277581,33309.72,https://www.goodreads.com/book/show/10959.Sophie_s_World,8.333083163618198
+Around the World in Eighty Days,Jules Verne,3.95,277576,33309.119999999995,https://www.goodreads.com/book/show/54479.Around_the_World_in_Eighty_Days,8.333083159112007
+Breakfast of Champions,Kurt Vonnegut Jr.,4.06,276714,33205.68,https://www.goodreads.com/book/show/4980.Breakfast_of_Champions,8.333082379810326
+The Brief Wondrous Life of Oscar Wao,Junot Díaz,3.89,276303,33156.36,https://www.goodreads.com/book/show/297673.The_Brief_Wondrous_Life_of_Oscar_Wao,8.333082006528867
+Because of Winn-Dixie,Kate DiCamillo,4.1,275781,33093.72,https://www.goodreads.com/book/show/357664.Because_of_Winn_Dixie,8.333081530830295
+"Odd Thomas (Odd Thomas, #1)",Dean Koontz,3.99,275210,33025.2,https://www.goodreads.com/book/show/14995.Odd_Thomas,8.333081008411504
+The Historian,Elizabeth Kostova,3.8,274515,32941.799999999996,https://www.goodreads.com/book/show/30236962-the-historian,8.333080369610355
+"The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith,3.81,274058,32886.96,https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency,8.333079947798526
+"Twenty Thousand Leagues Under the Sea (Captain Nemo, #2)",Jules Verne,3.89,272711,32725.32,https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea,8.333078696290936
+"World Without End (Kingsbridge, #2)",Ken Follett,4.32,271376,32565.12,https://www.goodreads.com/book/show/5064.World_Without_End,8.333077443674592
+Between Shades of Gray,Ruta Sepetys,4.37,271067,32528.039999999997,https://www.goodreads.com/book/show/7824322-between-shades-of-gray,8.333077151984812
+The Phantom of the Opera,Gaston Leroux,3.96,270308,32436.96,https://www.goodreads.com/book/show/480204.The_Phantom_of_the_Opera,8.333076432673325
+The Velveteen Rabbit,Margery Williams Bianco,4.31,270292,32435.039999999997,https://www.goodreads.com/book/show/144974.The_Velveteen_Rabbit,8.333076417466497
+Jonathan Livingston Seagull,Richard Bach,3.86,269014,32281.68,https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull,8.33307519697869
+"Speaker for the Dead (Ender's Saga, #2)",Orson Scott Card,4.11,268436,32212.32,https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead,8.333074641173278
+"Mort (Discworld, #4; Death, #1)",Terry Pratchett,4.24,267625,32115.0,https://www.goodreads.com/book/show/386372.Mort,8.333073857267406
+"Drums of Autumn (Outlander, #4)",Diana Gabaldon,4.36,266203,31944.36,https://www.goodreads.com/book/show/40909452-drums-of-autumn,8.33307247124465
+"Dead to the World (Sookie Stackhouse, #4)",Charlaine Harris,4.12,266167,31940.039999999997,https://www.goodreads.com/book/show/140077.Dead_to_the_World,8.333072435963263
+The Pearl,John Steinbeck,3.56,264855,31782.6,https://www.goodreads.com/book/show/5308.The_Pearl,8.333071143608654
+Cloud Atlas,David Mitchell,4.01,264434,31732.079999999998,https://www.goodreads.com/book/show/49628.Cloud_Atlas,8.333070726194874
+"Perfect Chemistry (Perfect Chemistry, #1)",Simone Elkeles,4.04,263011,31561.32,https://www.goodreads.com/book/show/4268157-perfect-chemistry,8.33306930542495
+"The Exorcist (The Exorcist, #1)",William Peter Blatty,4.21,262329,31479.48,https://www.goodreads.com/book/show/179780.The_Exorcist,8.333068619029952
+A People’s History of the United States: 1492 - Present,Howard Zinn,4.08,261681,31401.719999999998,https://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States,8.333067963539465
+"Living Dead in Dallas (Sookie Stackhouse, #2)",Charlaine Harris,3.96,261619,31394.28,https://www.goodreads.com/book/show/110494.Living_Dead_in_Dallas,8.333067900652582
+It's Kind of a Funny Story,Ned Vizzini,4.07,260885,31306.199999999997,https://www.goodreads.com/book/show/248704.It_s_Kind_of_a_Funny_Story,8.333067153881537
+"The Good Earth (House of Earth, #1)",Pearl S. Buck,4.01,258796,31055.52,https://www.goodreads.com/book/show/1078.The_Good_Earth,8.333065005351534
+Much Ado About Nothing,William Shakespeare,4.06,256007,30720.84,https://www.goodreads.com/book/show/12957.Much_Ado_About_Nothing,8.333062082219033
+Death of a Salesman,Arthur Miller,3.59,255223,30626.76,https://www.goodreads.com/book/show/12898.Death_of_a_Salesman,8.333061249010703
+David Copperfield,Charles Dickens,4.04,255126,30615.12,https://www.goodreads.com/book/show/58696.David_Copperfield,8.333061145566454
+"Are You There God? It’s Me, Margaret",Judy Blume,3.95,253411,30409.32,https://www.goodreads.com/book/show/37732.Are_You_There_God_It_s_Me_Margaret,8.333059303552215
+"Chosen (House of Night, #3)",P.C. Cast,3.91,253365,30403.8,https://www.goodreads.com/book/show/1326258.Chosen,8.333059253802032
+"Wizard's First Rule (Sword of Truth, #1)",Terry Goodkind,4.12,252595,30311.399999999998,https://www.goodreads.com/book/show/43889.Wizard_s_First_Rule,8.333058418337052
+Where the Heart Is,Billie Letts,4.04,252171,30260.52,https://www.goodreads.com/book/show/5168.Where_the_Heart_Is,8.333057956110599
+Jonathan Strange & Mr Norrell,Susanna Clarke,3.87,251637,30196.44,https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell,8.333057371750717
+A Room of One’s Own,Virginia Woolf,4.22,251106,30132.719999999998,https://www.goodreads.com/book/show/18521.A_Room_of_One_s_Own,8.333056788209355
+Are You My Mother?,P.D. Eastman,4.22,251083,30129.96,https://www.goodreads.com/book/show/197084.Are_You_My_Mother_,8.333056762877785
+Final Girls,Riley Sager,3.82,250657,30078.84,https://www.goodreads.com/book/show/32796253-final-girls,8.333056292852621
+Just Listen,Sarah Dessen,4.05,250098,30011.76,https://www.goodreads.com/book/show/51738.Just_Listen,8.333055673653472
+Cold Mountain,Charles Frazier,3.89,248750,29850.0,https://www.goodreads.com/book/show/10920.Cold_Mountain,8.333054169039563
+The Complete Maus,Art Spiegelman,4.58,248450,29814.0,https://www.goodreads.com/book/show/15195.The_Complete_Maus,8.333053831963777
+Heartless,Marissa Meyer,4.09,248071,29768.52,https://www.goodreads.com/book/show/18584855-heartless,8.333053404959166
+The Polar Express,Chris Van Allsburg,4.32,246969,29636.28,https://www.goodreads.com/book/show/420282.The_Polar_Express,8.333052155933338
+Message in a Bottle,Nicholas Sparks,3.98,246566,29587.92,https://www.goodreads.com/book/show/3478.Message_in_a_Bottle,8.33305169637824
+"Unwind (Unwind, #1)",Neal Shusterman,4.17,246211,29545.32,https://www.goodreads.com/book/show/764347.Unwind,8.333051290312973
+Love You Forever,Robert Munsch,4.38,245889,29506.68,https://www.goodreads.com/book/show/310259.Love_You_Forever,8.333050920980572
+"Left Behind (Left Behind, #1)",Tim LaHaye,3.86,244904,29388.48,https://www.goodreads.com/book/show/27523.Left_Behind,8.33304978516122
+The Tell-Tale Heart and Other Writings,Edgar Allan Poe,4.19,243939,29272.68,https://www.goodreads.com/book/show/391729.The_Tell_Tale_Heart_and_Other_Writings,8.333048663509336
+"Club Dead (Sookie Stackhouse, #3)",Charlaine Harris,4.02,243937,29272.44,https://www.goodreads.com/book/show/140082.Club_Dead,8.333048661175456
+"Torment (Fallen, #2)",Lauren Kate,3.84,243889,29266.68,https://www.goodreads.com/book/show/7740152-torment,8.3330486051508
+"Untamed (House of Night, #4)",P.C. Cast,3.94,243869,29264.28,https://www.goodreads.com/book/show/2866718-untamed,8.333048581800687
+Starship Troopers,Robert A. Heinlein,4.01,243301,29196.12,https://www.goodreads.com/book/show/17214.Starship_Troopers,8.333047917054833
+"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",Robert M. Pirsig,3.78,242816,29137.92,https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance,8.33304734698472
+The Long Walk,Richard  Bachman,4.05,242494,29099.28,https://www.goodreads.com/book/show/9014.The_Long_Walk,8.333046967245677
+Uncle Tom’s Cabin,Harriet Beecher Stowe,3.92,240608,28872.96,https://www.goodreads.com/book/show/46787.Uncle_Tom_s_Cabin,8.33304472264975
+Veronika Decides to Die,Paulo Coelho,3.74,239008,28680.96,https://www.goodreads.com/book/show/1431.Veronika_Decides_to_Die,8.333042790660052
+No Country for Old Men,Cormac McCarthy,4.17,237885,28546.2,https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men,8.333041419123417
+The Wind in the Willows,Kenneth Grahame,4.02,237069,28448.28,https://www.goodreads.com/book/show/5659.The_Wind_in_the_Willows,8.333040414379555
+The World According to Garp,John Irving,4.11,236956,28434.719999999998,https://www.goodreads.com/book/show/7069.The_World_According_to_Garp,8.333040274696755
+Franny and Zooey,J.D. Salinger,3.96,236894,28427.28,https://www.goodreads.com/book/show/5113.Franny_and_Zooey,8.33304019800002
+No Longer Human,Osamu Dazai,3.95,236760,28411.2,https://www.goodreads.com/book/show/194746.No_Longer_Human,8.333040032098888
+The Forgotten Garden,Kate Morton,4.15,235924,28310.879999999997,https://www.goodreads.com/book/show/3407877-the-forgotten-garden,8.333038992818564
+The Canterbury Tales,Geoffrey Chaucer,3.52,235658,28278.96,https://www.goodreads.com/book/show/2696.The_Canterbury_Tales,8.333038660592166
+Shantaram,Gregory David Roberts,4.28,235401,28248.12,https://www.goodreads.com/book/show/33600.Shantaram,8.333038338893388
+"Flowers in the Attic (Dollanganger, #1)",V.C. Andrews,3.85,234144,28097.28,https://www.goodreads.com/book/show/43448.Flowers_in_the_Attic,8.3330367552747
+King Lear,William Shakespeare,3.91,234137,28096.44,https://www.goodreads.com/book/show/12938.King_Lear,8.333036746408213
+"Oedipus Rex  (The Theban Plays, #1)",Sophocles,3.72,233677,28041.239999999998,https://www.goodreads.com/book/show/1554.Oedipus_Rex,8.333036162589009
+"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins,4.5,232625,27915.0,https://www.goodreads.com/book/show/7938275-the-hunger-games-trilogy-boxset,8.33303481874194
+"The Angel Experiment (Maximum Ride, #1)",James  Patterson,4.07,232462,27895.44,https://www.goodreads.com/book/show/13152.The_Angel_Experiment,8.333034609434035
+The Westing Game,Ellen Raskin,3.99,231813,27817.559999999998,https://www.goodreads.com/book/show/902.The_Westing_Game,8.333033773135634
+"Guards! Guards! (Discworld, #8; City Watch, #1)",Terry Pratchett,4.34,231307,27756.84,https://www.goodreads.com/book/show/64216.Guards_Guards_,8.333033117850668
+"Champion (Legend, #3)",Marie Lu,4.31,231173,27740.76,https://www.goodreads.com/book/show/14290364-champion,8.333032943836296
+A Separate Peace,John Knowles,3.6,230387,27646.44,https://www.goodreads.com/book/show/5148.A_Separate_Peace,8.333031919049287
+Stoner,John  Williams,4.35,229820,27578.399999999998,https://www.goodreads.com/book/show/166997.Stoner,8.33303117544254
+The Reader,Bernhard Schlink,3.79,228108,27372.96,https://www.goodreads.com/book/show/101299.The_Reader,8.333028907764898
+"Lonesome Dove (Lonesome Dove, #1)",Larry McMurtry,4.57,227782,27333.84,https://www.goodreads.com/book/show/256008.Lonesome_Dove,8.333028472089099
+The Truth About Forever,Sarah Dessen,4.12,225924,27110.879999999997,https://www.goodreads.com/book/show/51737.The_Truth_About_Forever,8.33302596500132
+"A Great and Terrible Beauty (Gemma Doyle, #1)",Libba Bray,3.8,225321,27038.52,https://www.goodreads.com/book/show/3682.A_Great_and_Terrible_Beauty,8.33302514245815
+"The Fiery Cross (Outlander, #5)",Diana Gabaldon,4.26,224384,26926.079999999998,https://www.goodreads.com/book/show/10967.The_Fiery_Cross,8.333023855538737
+The Awakening,Kate Chopin,3.69,224077,26889.239999999998,https://www.goodreads.com/book/show/58345.The_Awakening,8.333023431549886
+"Dead as a Doornail (Sookie Stackhouse, #5)",Charlaine Harris,4.01,223929,26871.48,https://www.goodreads.com/book/show/170210.Dead_as_a_Doornail,8.333023226736051
+The Republic,Plato,3.97,222036,26644.32,https://www.goodreads.com/book/show/30289.The_Republic,8.333020582976673
+"The Passage (The Passage, #1)",Justin Cronin,4.05,221256,26550.719999999998,https://www.goodreads.com/book/show/6690798-the-passage,8.333019480470568
+"Anne of Avonlea (Anne of Green Gables, #2)",L.M. Montgomery,4.23,221115,26533.8,https://www.goodreads.com/book/show/77390.Anne_of_Avonlea,8.333019280341288
+Grimm's Fairy Tales,Jacob Grimm,4.23,219875,26385.0,https://www.goodreads.com/book/show/19351490-grimm-s-fairy-tales,8.333017509285227
+Shutter Island,Dennis Lehane,4.13,219619,26354.28,https://www.goodreads.com/book/show/21686.Shutter_Island,8.333017141157294
+Choke,Chuck Palahniuk,3.71,219421,26330.52,https://www.goodreads.com/book/show/29059.Choke,8.333016855844251
+Waiting for Godot,Samuel Beckett,3.84,218678,26241.36,https://www.goodreads.com/book/show/17716.Waiting_for_Godot,8.333015780592904
+Different Seasons,Stephen        King,4.36,218515,26221.8,https://www.goodreads.com/book/show/39662.Different_Seasons,8.333015543725308
+"The Iron King (The Iron Fey, #1)",Julie Kagawa,3.87,217906,26148.719999999998,https://www.goodreads.com/book/show/6644117-the-iron-king,8.333014655606256
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,4.16,217756,26130.719999999998,https://www.goodreads.com/book/show/3980.From_the_Mixed_Up_Files_of_Mrs_Basil_E_Frankweiler,8.33301443609529
+The Neverending Story,Michael Ende,4.18,217746,26129.52,https://www.goodreads.com/book/show/27712.The_Neverending_Story,8.333014421450473
+"Sabriel (Abhorsen, #1)",Garth Nix,4.16,216800,26016.0,https://www.goodreads.com/book/show/518848.Sabriel,8.333013029941961
+Keep It in the Family,John Marrs,4.07,216635,25996.2,https://www.goodreads.com/book/show/60109530-keep-it-in-the-family,8.333012785992338
+Julius Caesar,William Shakespeare,3.71,216565,25987.8,https://www.goodreads.com/book/show/13006.Julius_Caesar,8.33301268238626
+The Complete Sherlock Holmes,Arthur Conan Doyle,4.51,215207,25824.84,https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes,8.333010659091824
+The Hunchback of Notre-Dame,Victor Hugo,4.02,215037,25804.44,https://www.goodreads.com/book/show/30597.The_Hunchback_of_Notre_Dame,8.333010404007837
+The Prince of Tides,Pat Conroy,4.26,214746,25769.52,https://www.goodreads.com/book/show/16735.The_Prince_of_Tides,8.333009966426754
+"The Vampire Lestat (The Vampire Chronicles, #2)",Anne Rice,4.11,213912,25669.44,https://www.goodreads.com/book/show/43814.The_Vampire_Lestat,8.333008705733132
+"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,4.18,213435,25612.2,https://www.goodreads.com/book/show/7770.One_Fish_Two_Fish_Red_Fish_Blue_Fish,8.333007980260177
+The Left Hand of Darkness,Ursula K. Le Guin,4.1,213302,25596.239999999998,https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness,8.333007777401003
+High Fidelity,Nick Hornby,3.9,213076,25569.12,https://www.goodreads.com/book/show/285092.High_Fidelity,8.333007432112169
+"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley,4.13,211827,25419.239999999998,https://www.goodreads.com/book/show/40605251-the-mists-of-avalon,8.333005510569532
+The Idiot,Fyodor Dostoevsky,4.21,210944,25313.28,https://www.goodreads.com/book/show/12505.The_Idiot,8.333004138375653
+The Amazing Adventures of Kavalier & Clay,Michael Chabon,4.18,210817,25298.04,https://www.goodreads.com/book/show/3985.The_Amazing_Adventures_of_Kavalier_Clay,8.333003940070453
+"Definitely Dead (Sookie Stackhouse, #6)",Charlaine Harris,4.02,210419,25250.28,https://www.goodreads.com/book/show/140079.Definitely_Dead,8.333003317059571
+To the Lighthouse,Virginia Woolf,3.81,209868,25184.16,https://www.goodreads.com/book/show/59716.To_the_Lighthouse,8.33300245064951
+"Heidi (Heidi, #1-2)",Johanna Spyri,4.04,209673,25160.76,https://www.goodreads.com/book/show/93.Heidi,8.333002142934358
+"Blood Meridian, or, the Evening Redness in the West",Cormac McCarthy,4.16,209603,25152.36,https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West,8.333002032332857
+Steppenwolf,Hermann Hesse,4.13,209588,25150.559999999998,https://www.goodreads.com/book/show/16631.Steppenwolf,8.333002008622925
+The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,4.19,209393,25127.16,https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma,8.333001700084687
+"Gone (Gone, #1)",Michael  Grant,3.87,209148,25097.76,https://www.goodreads.com/book/show/2536134.Gone,8.333001311618583
+"Shōgun (Asian Saga, #1)",James Clavell,4.41,208836,25060.32,https://www.goodreads.com/book/show/52382796-sh-gun,8.333000815599497
+We Need to Talk About Kevin,Lionel Shriver,4.08,208685,25042.2,https://www.goodreads.com/book/show/80660.We_Need_to_Talk_About_Kevin,8.33300057500639
+No Exit,Taylor  Adams,3.99,208600,25032.0,https://www.goodreads.com/book/show/35522836-no-exit,8.333000439419965
+Breakfast at Tiffany’s and Three Stories,Truman Capote,3.87,207814,24937.68,https://www.goodreads.com/book/show/251688.Breakfast_at_Tiffany_s_and_Three_Stories,8.33299918038966
+"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,4.15,207722,24926.64,https://www.goodreads.com/book/show/19302.Pippi_Longstocking,8.332999032399377
+"The Darkest Minds (The Darkest Minds, #1)",Alexandra Bracken,4.15,204911,24589.32,https://www.goodreads.com/book/show/10576365-the-darkest-minds,8.332994446595245
+Interpreter of Maladies,Jhumpa Lahiri,4.18,204199,24503.879999999997,https://www.goodreads.com/book/show/5439.Interpreter_of_Maladies,8.33299326501497
+"Walking Disaster (Beautiful, #2)",Jamie McGuire,4.14,203973,24476.76,https://www.goodreads.com/book/show/15745950-walking-disaster,8.33299288823814
+"The Knife of Never Letting Go (Chaos Walking, #1)",Patrick Ness,3.98,202952,24354.239999999998,https://www.goodreads.com/book/show/20758104-the-knife-of-never-letting-go,8.332991175615597
+"Specials (Uglies, #3)",Scott Westerfeld,3.75,202771,24332.52,https://www.goodreads.com/book/show/24765.Specials,8.332990870207023
+Inferno,Dante Alighieri,4.03,202375,24285.0,https://www.goodreads.com/book/show/15645.Inferno,8.332990200115292
+"Walden or, Life in the Woods",Henry David Thoreau,3.77,202033,24243.96,https://www.goodreads.com/book/show/16902.Walden_or_Life_in_the_Woods,8.332989619285822
+"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward,4.32,201173,24140.76,https://www.goodreads.com/book/show/35729.Lover_Eternal,8.332988149994035
+The White Tiger,Aravind Adiga,3.77,200959,24115.079999999998,https://www.goodreads.com/book/show/1768603.The_White_Tiger,8.332987782425668
+The Merchant of Venice,William Shakespeare,3.78,200321,24038.52,https://www.goodreads.com/book/show/24128.The_Merchant_of_Venice,8.332986681930421
+Invisible Man,Ralph Ellison,3.92,199816,23977.92,https://www.goodreads.com/book/show/16981.Invisible_Man,8.332985805866153
+A Room with a View,E.M. Forster,3.89,199104,23892.48,https://www.goodreads.com/book/show/3087.A_Room_with_a_View,8.332984563152793
+"Angelfall (Penryn & the End of Days, #1)",Susan Ee,4.1,197814,23737.68,https://www.goodreads.com/book/show/15863832-angelfall,8.332982288821452
+The Elegance of the Hedgehog,Muriel Barbery,3.8,197355,23682.6,https://www.goodreads.com/book/show/2967752-the-elegance-of-the-hedgehog,8.332981472411289
+The Corrections,Jonathan Franzen,3.84,195639,23476.68,https://www.goodreads.com/book/show/3805.The_Corrections,8.332978386280075
+House of Leaves,Mark Z. Danielewski,4.09,194219,23306.28,https://www.goodreads.com/book/show/24800.House_of_Leaves,8.332975791254922
+"The Bone Collector (Lincoln Rhyme, #1)",Jeffery Deaver,4.2,193733,23247.96,https://www.goodreads.com/book/show/2373.The_Bone_Collector,8.332974894360866
+The Cider House Rules,John Irving,4.17,193681,23241.719999999998,https://www.goodreads.com/book/show/4687.The_Cider_House_Rules,8.33297479813034
+The Sound and the Fury,William Faulkner,3.86,193524,23222.879999999997,https://www.goodreads.com/book/show/10975.The_Sound_and_the_Fury,8.33297450727441
+Snow Falling on Cedars,David Guterson,3.86,193077,23169.239999999998,https://www.goodreads.com/book/show/77142.Snow_Falling_on_Cedars,8.332973676578233
+"Fire (Graceling Realm, #2)",Kristin Cashore,4.09,193073,23168.76,https://www.goodreads.com/book/show/6137154-fire,8.332973669127346
+"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter,3.84,192855,23142.6,https://www.goodreads.com/book/show/852470.I_d_Tell_You_I_Love_You_But_Then_I_d_Have_to_Kill_You,8.332973262586634
+Twelfth Night,William Shakespeare,3.96,192318,23078.16,https://www.goodreads.com/book/show/1625.Twelfth_Night,8.332972257222533
+The Age of Innocence,Edith Wharton,3.97,191999,23039.879999999997,https://www.goodreads.com/book/show/53835.The_Age_of_Innocence,8.332971657332534
+The Marriage Portrait,Maggie O'Farrell,4.01,191542,22985.04,https://www.goodreads.com/book/show/60353768-the-marriage-portrait,8.332970794447412
+"Bloodlines (Bloodlines, #1)",Richelle Mead,4.2,190440,22852.8,https://www.goodreads.com/book/show/8709527-bloodlines,8.33296869667189
+What Lies in the Woods,Kate Alice Marshall,3.94,190307,22836.84,https://www.goodreads.com/book/show/60784373-what-lies-in-the-woods,8.332968441849141
+"The Unbecoming of Mara Dyer (Mara Dyer, #1)",Michelle Hodkin,4.01,190152,22818.239999999998,https://www.goodreads.com/book/show/11408650-the-unbecoming-of-mara-dyer,8.332968144425495
+"Hunted (House of Night, #5)",P.C. Cast,3.93,190071,22808.52,https://www.goodreads.com/book/show/4134071-hunted,8.332967988804674
+"A Breath of Snow and Ashes (Outlander, #6)",Diana Gabaldon,4.44,189479,22737.48,https://www.goodreads.com/book/show/10965.A_Breath_of_Snow_and_Ashes,8.332966847388215
+"Darkfever (Fever, #1)",Karen Marie Moning,4.05,188983,22677.96,https://www.goodreads.com/book/show/112750.Darkfever,8.33296588556089
+The Invention of Hugo Cabret,Brian Selznick,4.22,188617,22634.04,https://www.goodreads.com/book/show/9673436-the-invention-of-hugo-cabret,8.332965172581979
+"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward,4.43,188077,22569.239999999998,https://www.goodreads.com/book/show/42900.Lover_Awakened,8.332964115578745
+"The Dark Tower (The Dark Tower, #7)",Stephen        King,4.29,186810,22417.2,https://www.goodreads.com/book/show/5091.The_Dark_Tower,8.33296161154776
+"Finale (Hush, Hush, #4)",Becca Fitzpatrick,4.11,185434,22252.079999999998,https://www.goodreads.com/book/show/12751687-finale,8.332958853336258
+As I Lay Dying,William Faulkner,3.72,183993,22079.16,https://www.goodreads.com/book/show/77013.As_I_Lay_Dying,8.33295592060927
+Everything is Illuminated,Jonathan Safran Foer,3.89,183212,21985.44,https://www.goodreads.com/book/show/256566.Everything_is_Illuminated,8.33295431183948
+A Heartbreaking Work of Staggering Genius,Dave Eggers,3.69,183049,21965.879999999997,https://www.goodreads.com/book/show/4953.A_Heartbreaking_Work_of_Staggering_Genius,8.332953974346836
+North and South,Elizabeth Gaskell,4.15,180848,21701.76,https://www.goodreads.com/book/show/156538.North_and_South,8.332949357593229
+"Lamb: The Gospel According to Biff, Christ’s Childhood Pal",Christopher Moore,4.22,180484,21658.079999999998,https://www.goodreads.com/book/show/28881.Lamb,8.332948583226989
+"The Alienist (Dr. Laszlo Kreizler, #1)",Caleb Carr,4.06,180196,21623.52,https://www.goodreads.com/book/show/40024.The_Alienist,8.332947968324845
+Paradise Lost,John Milton,3.85,179243,21509.16,https://www.goodreads.com/book/show/15997.Paradise_Lost,8.332945919509664
+Ask for Andrea,Noelle W. Ihli,4.08,179207,21504.84,https://www.goodreads.com/book/show/60168787-ask-for-andrea,8.332945841687653
+Tao Te Ching,Lao Tzu,4.29,179035,21484.2,https://www.goodreads.com/book/show/67896.Tao_Te_Ching,8.332945469439428
+"Ender's Shadow (The Shadow Series, #1)",Orson Scott Card,4.32,178600,21432.0,https://www.goodreads.com/book/show/9532.Ender_s_Shadow,8.332944524798208
+Middlemarch,George Eliot,4.03,176464,21175.68,https://www.goodreads.com/book/show/19089.Middlemarch,8.332939818706237
+"Trainspotting (Mark Renton, #2)",Irvine Welsh,4.11,176000,21120.0,https://www.goodreads.com/book/show/135836.Trainspotting,8.332938781307703
+The Summoning (Darkest Powers #1),Kelley Armstrong,4.03,175958,21114.96,https://www.goodreads.com/book/show/2800905-the-summoning,8.33293868713523
+"Fablehaven (Fablehaven, #1)",Brandon Mull,4.14,175938,21112.559999999998,https://www.goodreads.com/book/show/44652.Fablehaven,8.332938642275392
+"Poison Study (Study, #1)",Maria V. Snyder,4.09,174784,20974.079999999998,https://www.goodreads.com/book/show/60510.Poison_Study,8.332936036477573
+"Linger (The Wolves of Mercy Falls, #2)",Maggie Stiefvater,3.88,174732,20967.84,https://www.goodreads.com/book/show/6654313-linger,8.33293591824822
+"Tempted (House of Night, #6)",P.C. Cast,3.95,173244,20789.28,https://www.goodreads.com/book/show/6262365-tempted,8.332932504997528
+"The Mysterious Benedict Society (The Mysterious Benedict Society, #1)",Trenton Lee Stewart,4.2,173018,20762.16,https://www.goodreads.com/book/show/40605329-the-mysterious-benedict-society,8.332931981451763
+"The Ruins of Gorlan (Ranger's Apprentice, #1)",John Flanagan,4.26,172890,20746.8,https://www.goodreads.com/book/show/60400.The_Ruins_of_Gorlan,8.332931684323157
+Walk Two Moons,Sharon Creech,4.0,172649,20717.88,https://www.goodreads.com/book/show/53496.Walk_Two_Moons,8.332931123690082
+"Antigone (The Theban Plays, #3)",Sophocles,3.68,172218,20666.16,https://www.goodreads.com/book/show/7728.Antigone,8.332930117152042
+Dubliners,James Joyce,3.84,171916,20629.92,https://www.goodreads.com/book/show/11012.Dubliners,8.332929408867855
+Thus Spoke Zarathustra,Friedrich Nietzsche,4.07,171816,20617.92,https://www.goodreads.com/book/show/51893.Thus_Spoke_Zarathustra,8.332929173787958
+"The Bean Trees (Greer Family, #1)",Barbara Kingsolver,4.01,171277,20553.239999999998,https://www.goodreads.com/book/show/30868.The_Bean_Trees,8.332927901980321
+Watchers,Dean Koontz,4.19,170746,20489.52,https://www.goodreads.com/book/show/32423.Watchers,8.332926641197979
+"Rubinrot (Edelstein-Trilogie, #1)",Kerstin Gier,4.14,169067,20288.04,https://www.goodreads.com/book/show/6325285-rubinrot,8.332922602547976
+The Divine Comedy: Inferno - Purgatorio - Paradiso,Dante Alighieri,4.08,168867,20264.04,https://www.goodreads.com/book/show/6656.The_Divine_Comedy,8.332922116117214
+I Am the Messenger,Markus Zusak,4.03,168423,20210.76,https://www.goodreads.com/book/show/19057.I_Am_the_Messenger,8.332921032111999
+Seabiscuit: An American Legend,Laura Hillenbrand,4.23,167611,20113.32,https://www.goodreads.com/book/show/110737.Seabiscuit,8.3329190347971
+Twenty Years Later,Charlie Donlea,4.18,167438,20092.559999999998,https://www.goodreads.com/book/show/57645345-twenty-years-later,8.33291860675759
+His Dark Materials (His Dark Materials #1-3),Philip Pullman,4.29,167220,20066.399999999998,https://www.goodreads.com/book/show/18116.His_Dark_Materials,8.332918066117186
+"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,3.94,166489,19978.68,https://www.goodreads.com/book/show/2052.The_Big_Sleep,8.332916242902789
+"Wicked Lovely (Wicked Lovely, #1)",Melissa Marr,3.7,166024,19922.88,https://www.goodreads.com/book/show/305234.Wicked_Lovely,8.332915074774592
+Anthem,Ayn Rand,3.61,165153,19818.36,https://www.goodreads.com/book/show/667.Anthem,8.332912869033107
+Schindler’s List,Thomas Keneally,4.34,164817,19778.04,https://www.goodreads.com/book/show/375013.Schindler_s_List,8.332912011907554
+Far From the Madding Crowd,Thomas Hardy,3.97,164054,19686.48,https://www.goodreads.com/book/show/31463.Far_From_the_Madding_Crowd,8.332910052480054
+Roots: The Saga of an American Family,Alex Haley,4.45,164034,19684.079999999998,https://www.goodreads.com/book/show/546018.Roots,8.33291000087376
+"Halfway to the Grave (Night Huntress, #1)",Jeaniene Frost,4.13,163749,19649.88,https://www.goodreads.com/book/show/1421990.Halfway_to_the_Grave,8.332909264114381
+The Woman in White,Wilkie Collins,4.01,163734,19648.079999999998,https://www.goodreads.com/book/show/5890.The_Woman_in_White,8.332909225266528
+Mystic River,Dennis Lehane,4.17,162413,19489.559999999998,https://www.goodreads.com/book/show/21671.Mystic_River,8.332905775924345
+The Girl Who Was Taken,Charlie Donlea,4.17,162110,19453.2,https://www.goodreads.com/book/show/39657755-the-girl-who-was-taken,8.332904976817344
+A Portrait of the Artist as a Young Man,James Joyce,3.64,162082,19449.84,https://www.goodreads.com/book/show/7588.A_Portrait_of_the_Artist_as_a_Young_Man,8.332904902821678
+The Blind Assassin,Margaret Atwood,3.96,162074,19448.88,https://www.goodreads.com/book/show/78433.The_Blind_Assassin,8.332904881675361
+"The Queen of the Damned (The Vampire Chronicles, #3)",Anne Rice,3.92,160240,19228.8,https://www.goodreads.com/book/show/43758.The_Queen_of_the_Damned,8.332899978158899
+The Witch of Blackbird Pond,Elizabeth George Speare,4.03,158700,19044.0,https://www.goodreads.com/book/show/703292.The_Witch_of_Blackbird_Pond,8.332895773168811
+A Fine Balance,Rohinton Mistry,4.38,157953,18954.36,https://www.goodreads.com/book/show/5211.A_Fine_Balance,8.332893703944425
+Cosmos,Carl Sagan,4.4,156713,18805.559999999998,https://www.goodreads.com/book/show/55030.Cosmos,8.332890225538323
+"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,4.36,156668,18800.16,https://www.goodreads.com/book/show/114345.The_Little_House_Collection,8.332890098270532
+"All Creatures Great and Small (All Creatures Great and Small, #1-2)",James Herriot,4.35,156349,18761.88,https://www.goodreads.com/book/show/32085.All_Creatures_Great_and_Small,8.332889193983013
+The Sirens of Titan,Kurt Vonnegut Jr.,4.15,155119,18614.28,https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan,8.33288567241535
+Nine Stories,J.D. Salinger,4.18,153591,18430.92,https://www.goodreads.com/book/show/4009.Nine_Stories,8.332881219102514
+The Jungle,Upton Sinclair,3.78,153100,18372.0,https://www.goodreads.com/book/show/41681.The_Jungle,8.332879769226583
+"Guilty Pleasures (Anita Blake, Vampire Hunter, #1)",Laurell K. Hamilton,4.02,152601,18312.12,https://www.goodreads.com/book/show/30281.Guilty_Pleasures,8.332878286168606
+The Shipping News,Annie Proulx,3.88,151429,18171.48,https://www.goodreads.com/book/show/7354.The_Shipping_News,8.332874764479037
+The Drowning Woman,Robyn Harding,4.04,151321,18158.52,https://www.goodreads.com/book/show/62874245-the-drowning-woman,8.332874437209794
+"Cannery Row (Cannery Row, #1)",John Steinbeck,4.06,151164,18139.68,https://www.goodreads.com/book/show/4799.Cannery_Row,8.332873960623306
+The Sorrows of Young Werther,Johann Wolfgang von Goethe,3.69,151088,18130.559999999998,https://www.goodreads.com/book/show/16640.The_Sorrows_of_Young_Werther,8.33287372956326
+The Story of My Life,Helen Keller,4.08,150462,18055.44,https://www.goodreads.com/book/show/821611.The_Story_of_My_Life,8.332871817478972
+Invisible Monsters,Chuck Palahniuk,4.0,150115,18013.8,https://www.goodreads.com/book/show/36236125-invisible-monsters,8.332870750716078
+"The Edge of Never (The Edge of Never, #1)",J.A. Redmerski,4.22,149920,17990.399999999998,https://www.goodreads.com/book/show/16081272-the-edge-of-never,8.332870149071224
+Hard-Boiled Wonderland and the End of the World,Haruki Murakami,4.11,149825,17979.0,https://www.goodreads.com/book/show/10374.Hard_Boiled_Wonderland_and_the_End_of_the_World,8.332869855394883
+Midnight Sun [2008 Draft],Stephenie Meyer,4.01,148888,17866.559999999998,https://www.goodreads.com/book/show/4502877-midnight-sun-2008-draft,8.332866938742617
+"The Goose Girl (The Books of Bayern, #1)",Shannon Hale,4.14,147836,17740.32,https://www.goodreads.com/book/show/179064.The_Goose_Girl,8.332863620068856
+Tender Is the Night,F. Scott Fitzgerald,3.77,147815,17737.8,https://www.goodreads.com/book/show/46164.Tender_Is_the_Night,8.3328635533407
+The Hours,Michael Cunningham,3.96,147551,17706.12,https://www.goodreads.com/book/show/11899.The_Hours,8.332862712852231
+Something Wicked This Way Comes,Ray Bradbury,3.9,147433,17691.96,https://www.goodreads.com/book/show/248596.Something_Wicked_This_Way_Comes,8.33286233620604
+My Ántonia,Willa Cather,3.84,145776,17493.12,https://www.goodreads.com/book/show/17150.My_ntonia,8.332856982803365
+"Lover Revealed (Black Dagger Brotherhood, #4)",J.R. Ward,4.28,143470,17216.399999999998,https://www.goodreads.com/book/show/42898.Lover_Revealed,8.332849326843775
+J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.61,142341,17080.92,https://www.goodreads.com/book/show/30.J_R_R_Tolkien_4_Book_Boxed_Set,8.332845488095016
+The Glass Menagerie,Tennessee Williams,3.74,141793,17015.16,https://www.goodreads.com/book/show/92517.The_Glass_Menagerie,8.332843602786998
+The Aeneid,Virgil,3.87,140994,16919.28,https://www.goodreads.com/book/show/12914.The_Aeneid,8.33284082769316
+The Scarlet Pimpernel,Emmuska Orczy,4.07,140627,16875.239999999998,https://www.goodreads.com/book/show/136116.The_Scarlet_Pimpernel,8.332839542457325
+"Lover Unbound (Black Dagger Brotherhood, #5)",J.R. Ward,4.31,140343,16841.16,https://www.goodreads.com/book/show/304027.Lover_Unbound,8.332838543274734
+The History of Love,Nicole Krauss,3.92,139813,16777.559999999998,https://www.goodreads.com/book/show/3867.The_History_of_Love,8.332836667747411
+"Mary Poppins (Mary Poppins, #1)",P.L. Travers,4.01,139654,16758.48,https://www.goodreads.com/book/show/152380.Mary_Poppins,8.332836102313436
+"The Talisman (The Talisman, #1)",Stephen        King,4.11,139414,16729.68,https://www.goodreads.com/book/show/59219.The_Talisman,8.332835246385681
+Ulysses,James Joyce,3.77,139226,16707.12,https://www.goodreads.com/book/show/338798.Ulysses,8.332834573847926
+"A Dog's Purpose (A Dog's Purpose, #1)",W. Bruce Cameron,4.36,138936,16672.32,https://www.goodreads.com/book/show/7723542-a-dog-s-purpose,8.332833532853686
+The English Patient,Michael Ondaatje,3.86,138071,16568.52,https://www.goodreads.com/book/show/11713.The_English_Patient,8.332830401846282
+The Moon Is a Harsh Mistress,Robert A. Heinlein,4.15,137570,16508.399999999998,https://www.goodreads.com/book/show/16690.The_Moon_Is_a_Harsh_Mistress,8.332828570390204
+"The Eyre Affair (Thursday Next, #1)",Jasper Fforde,3.88,136495,16379.4,https://www.goodreads.com/book/show/27003.The_Eyre_Affair,8.33282459524798
+Nausea,Jean-Paul Sartre,3.93,136054,16326.48,https://www.goodreads.com/book/show/298275.Nausea,8.33282294634567
+"Alanna: The First Adventure (Song of the Lioness, #1)",Tamora Pierce,4.27,135933,16311.96,https://www.goodreads.com/book/show/13831.Alanna,8.332822492055397
+Lady Chatterley’s Lover,D.H. Lawrence,3.5,135826,16299.119999999999,https://www.goodreads.com/book/show/32049.Lady_Chatterley_s_Lover,8.332822089653328
+Ethan Frome,Edith Wharton,3.46,135825,16299.0,https://www.goodreads.com/book/show/5246.Ethan_Frome,8.332822085889571
+House of Sand and Fog,Andre Dubus III,3.86,135779,16293.48,https://www.goodreads.com/book/show/38311414-house-of-sand-and-fog,8.332821912696815
+I Am Legend and Other Stories,Richard Matheson,4.0,135503,16260.359999999999,https://www.goodreads.com/book/show/547094.I_Am_Legend_and_Other_Stories,8.332820871071055
+Look Closer,David Ellis,4.16,133910,16069.199999999999,https://www.goodreads.com/book/show/59316367-look-closer,8.332814775173924
+"The Amulet of Samarkand (Bartimaeus, #1)",Jonathan Stroud,4.04,133893,16067.16,https://www.goodreads.com/book/show/334123.The_Amulet_of_Samarkand,8.33281470933822
+Vanity Fair,William Makepeace Thackeray,3.81,132417,15890.039999999999,https://www.goodreads.com/book/show/5797.Vanity_Fair,8.332808928805164
+Demian,Hermann Hesse,4.14,131755,15810.599999999999,https://www.goodreads.com/book/show/24861.Demian,8.332806294113183
+"Small Gods (Discworld, #13)",Terry Pratchett,4.32,131492,15779.039999999999,https://www.goodreads.com/book/show/34484.Small_Gods,8.332805240037414
+Midnight’s Children,Salman Rushdie,3.98,131471,15776.519999999999,https://www.goodreads.com/book/show/14836.Midnight_s_Children,8.332805155689869
+The Fall,Albert Camus,4.03,130266,15631.92,https://www.goodreads.com/book/show/11991.The_Fall,8.33280027019904
+"Chocolat (Chocolat, #1)",Joanne Harris,3.96,130262,15631.439999999999,https://www.goodreads.com/book/show/47401.Chocolat,8.332800253831136
+"Kane & Abel (Kane & Abel, #1)",Jeffrey Archer,4.34,129615,15553.8,https://www.goodreads.com/book/show/78983.Kane_Abel,8.332797593025948
+The Night Before Christmas,Clement Clarke Moore,4.4,126734,15208.08,https://www.goodreads.com/book/show/196970.The_Night_Before_Christmas,8.332785415028392
+The Monster at the End of this Book,Jon Stone,4.46,126702,15204.24,https://www.goodreads.com/book/show/44186.The_Monster_at_the_End_of_this_Book,8.332785276654628
+Prodigal Summer,Barbara Kingsolver,4.05,125405,15048.599999999999,https://www.goodreads.com/book/show/14249.Prodigal_Summer,8.332779608760367
+Song of Solomon,Toni Morrison,4.15,125115,15013.8,https://www.goodreads.com/book/show/11334.Song_of_Solomon,8.33277832538562
+Brideshead Revisited,Evelyn Waugh,4.0,124780,14973.599999999999,https://www.goodreads.com/book/show/30933.Brideshead_Revisited,8.332776835441349
+The Club,Ellery Lloyd,3.28,123863,14863.56,https://www.goodreads.com/book/show/58536005-the-club,8.33277271577497
+One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn,3.98,123257,14790.84,https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich,8.332769959653431
+"The Witching Hour (Lives of the Mayfair Witches, #1)",Anne Rice,4.1,123186,14782.32,https://www.goodreads.com/book/show/11901.The_Witching_Hour,8.332769634966976
+Survivor,Chuck Palahniuk,3.93,123077,14769.24,https://www.goodreads.com/book/show/36236123-survivor,8.332769135775722
+Wild Swans: Three Daughters of China,Jung Chang,4.3,121397,14567.64,https://www.goodreads.com/book/show/1848.Wild_Swans,8.332761328442462
+"Princess Academy (Princess Academy, #1)",Shannon Hale,4.04,121326,14559.119999999999,https://www.goodreads.com/book/show/85990.Princess_Academy,8.332760993728074
+The Origin of Species,Charles Darwin,4.01,120791,14494.92,https://www.goodreads.com/book/show/22463.The_Origin_of_Species,8.332758458931892
+"The Last Unicorn (The Last Unicorn, #1)",Peter S. Beagle,4.16,120557,14466.84,https://www.goodreads.com/book/show/29127.The_Last_Unicorn,8.332757343183225
+"Lover Avenged (Black Dagger Brotherhood, #7)",J.R. Ward,4.36,119749,14369.88,https://www.goodreads.com/book/show/5098079-lover-avenged,8.332753456990805
+The Shell Seekers,Rosamunde Pilcher,4.2,119218,14306.16,https://www.goodreads.com/book/show/37095.The_Shell_Seekers,8.33275087438737
+"The Reckoning (Darkest Powers, #3)",Kelley Armstrong,4.18,118600,14232.0,https://www.goodreads.com/book/show/6468666-the-reckoning,8.332747839527858
+"Into the Wild (Warriors, #1)",Erin Hunter,4.32,118097,14171.64,https://www.goodreads.com/book/show/111332.Into_the_Wild,8.332745345962362
+Howl and Other Poems,Allen Ginsberg,4.13,118042,14165.039999999999,https://www.goodreads.com/book/show/6295.Howl_and_Other_Poems,8.332745072017303
+"The Awakening (Darkest Powers, #2)",Kelley Armstrong,4.14,117628,14115.359999999999,https://www.goodreads.com/book/show/5391115-the-awakening,8.332743001736992
+"A Canticle for Leibowitz (St. Leibowitz, #1)",Walter M. Miller Jr.,3.99,117537,14104.439999999999,https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz,8.332742544720336
+"Night Watch (Discworld, #29; City Watch, #6)",Terry Pratchett,4.5,117325,14079.0,https://www.goodreads.com/book/show/47989.Night_Watch,8.332741477272727
+"The Once and Future King (The Once and Future King, #1-5)",T.H. White,4.07,116928,14031.359999999999,https://www.goodreads.com/book/show/43545.The_Once_and_Future_King,8.33273946791559
+Cryptonomicon,Neal Stephenson,4.23,116140,13936.8,https://www.goodreads.com/book/show/816.Cryptonomicon,8.332735438878446
+Leaves of Grass,Walt Whitman,4.11,115330,13839.6,https://www.goodreads.com/book/show/27494.Leaves_of_Grass,8.332731239975145
+I Capture the Castle,Dodie Smith,3.99,113926,13671.119999999999,https://www.goodreads.com/book/show/31122.I_Capture_the_Castle,8.332723820446281
+Bleak House,Charles Dickens,4.02,112938,13552.56,https://www.goodreads.com/book/show/31242.Bleak_House,8.332718488721783
+"Shadowfever (Fever, #5)",Karen Marie Moning,4.39,112331,13479.72,https://www.goodreads.com/book/show/7304203-shadowfever,8.332715166548969
+Orlando,Virginia Woolf,3.87,111503,13380.359999999999,https://www.goodreads.com/book/show/18839.Orlando,8.332710576503436
+Shakespeare's Sonnets,William Shakespeare,4.25,111190,13342.8,https://www.goodreads.com/book/show/42038.Shakespeare_s_Sonnets,8.332708823573496
+If on a Winter’s Night a Traveler,Italo Calvino,4.02,109405,13128.6,https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler,8.332698635145016
+The Complete Poems of Emily Dickinson,Emily Dickinson,4.28,106122,12734.64,https://www.goodreads.com/book/show/112204.The_Complete_Poems_of_Emily_Dickinson,8.332679001604946
+The Wasp Factory,Iain Banks,3.75,105925,12711.0,https://www.goodreads.com/book/show/567678.The_Wasp_Factory,8.332677784770295
+The Bridges of Madison County,Robert James Waller,3.71,105154,12618.48,https://www.goodreads.com/book/show/83674.The_Bridges_of_Madison_County,8.332672978601337
+Cold Sassy Tree,Olive Ann Burns,4.02,105110,12613.199999999999,https://www.goodreads.com/book/show/40389231-cold-sassy-tree,8.332672702192768
+"Keeper of the Lost Cities (Keeper of the Lost Cities, #1)",Shannon Messenger,4.4,105094,12611.279999999999,https://www.goodreads.com/book/show/12842828-keeper-of-the-lost-cities,8.33267260162318
+Native Son,Richard Wright,4.04,103772,12452.64,https://www.goodreads.com/book/show/15622.Native_Son,8.332664184929065
+"Glass Houses (The Morganville Vampires, #1)",Rachel Caine,3.92,103212,12385.439999999999,https://www.goodreads.com/book/show/27266.Glass_Houses,8.33266055460649
+"Ishmael (Ishmael, #1)",Daniel Quinn,4.01,103142,12377.039999999999,https://www.goodreads.com/book/show/40611328-ishmael,8.332660098044602
+Doctor Zhivago,Boris Pasternak,4.01,101760,12211.199999999999,https://www.goodreads.com/book/show/130440.Doctor_Zhivago,8.332650955601776
+Exodus,Leon Uris,4.34,101062,12127.439999999999,https://www.goodreads.com/book/show/42697.Exodus,8.332646243045273
+Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown,4.26,100505,12060.6,https://www.goodreads.com/book/show/76401.Bury_My_Heart_at_Wounded_Knee,8.332642435497778
+Peace Like a River,Leif Enger,4.03,99948,11993.76,https://www.goodreads.com/book/show/227571.Peace_Like_a_River,8.332638585515674
+Infinite Jest,David Foster Wallace,4.25,99590,11950.8,https://www.goodreads.com/book/show/6759.Infinite_Jest,8.332636088287957
+Ivanhoe,Walter Scott,3.76,98354,11802.48,https://www.goodreads.com/book/show/6440.Ivanhoe,8.332627326856148
+"The Chosen (Reuven Malther, #1)",Chaim Potok,4.07,96611,11593.32,https://www.goodreads.com/book/show/187181.The_Chosen,8.332614590592636
+Holy Bible: New International Version,Anonymous,4.63,95133,11415.96,https://www.goodreads.com/book/show/280111.Holy_Bible,8.332603425079881
+The Agony and the Ecstasy,Irving Stone,4.09,94742,11369.039999999999,https://www.goodreads.com/book/show/321552.The_Agony_and_the_Ecstasy,8.332600413015259
+"84, Charing Cross Road",Helene Hanff,4.16,94382,11325.84,https://www.goodreads.com/book/show/368916.84_Charing_Cross_Road,8.332597617693903
+Howards End,E.M. Forster,3.96,93945,11273.4,https://www.goodreads.com/book/show/38374795-howards-end,8.332594195699993
+Sophie’s Choice,William Styron,4.17,93926,11271.119999999999,https://www.goodreads.com/book/show/228560.Sophie_s_Choice,8.332594046195393
+"The Power of One (The Power of One, #1)",Bryce Courtenay,4.36,93557,11226.84,https://www.goodreads.com/book/show/122.The_Power_of_One,8.332591130618178
+"The Bronze Horseman (The Bronze Horseman, #1)",Paullina Simons,4.29,93189,11182.68,https://www.goodreads.com/book/show/83144.The_Bronze_Horseman,8.332588199948496
+Revolutionary Road,Richard Yates,3.93,92576,11109.119999999999,https://www.goodreads.com/book/show/48328.Revolutionary_Road,8.332583266427367
+Rosencrantz and Guildenstern Are Dead,Tom Stoppard,4.04,92384,11086.08,https://www.goodreads.com/book/show/18545.Rosencrantz_and_Guildenstern_Are_Dead,8.332581707717452
+Corelli’s Mandolin,Louis de Bernières,4.03,92102,11052.24,https://www.goodreads.com/book/show/3388.Corelli_s_Mandolin,8.332579406581237
+Gray After Dark,Noelle W. Ihli,4.19,91121,10934.52,https://www.goodreads.com/book/show/204787816-gray-after-dark,8.332571290619924
+"The Killer Angels (The Civil War Trilogy, #2)",Michael Shaara,4.33,90936,10912.32,https://www.goodreads.com/book/show/682804.The_Killer_Angels,8.332569740463947
+The Book of Mormon: Another Testament of Jesus Christ,Joseph Smith Jr.,4.23,90075,10809.0,https://www.goodreads.com/book/show/323355.The_Book_of_Mormon,8.332562442183164
+Cyrano de Bergerac,Edmond Rostand,4.06,89887,10786.44,https://www.goodreads.com/book/show/15638.Cyrano_de_Bergerac,8.332560830002299
+The Jungle Books,Rudyard Kipling,4.01,88817,10658.039999999999,https://www.goodreads.com/book/show/41684.The_Jungle_Books,8.332551524339904
+The Sea of Tranquility,Katja Millay,4.29,88314,10597.68,https://www.goodreads.com/book/show/16151178-the-sea-of-tranquility,8.33254707189952
+The Ruthless Elimination of Hurry: How to Stay Emotionally Healthy and Spiritually Alive in the Chaos of the Modern World,John Mark Comer,4.51,87811,10537.32,https://www.goodreads.com/book/show/43982455-the-ruthless-elimination-of-hurry,8.332542568454935
+"Faust, First Part",Johann Wolfgang von Goethe,3.83,84721,10166.52,https://www.goodreads.com/book/show/14706.Faust_First_Part,8.33251372999512
+The Portrait of a Lady,Henry James,3.8,84447,10133.64,https://www.goodreads.com/book/show/264.The_Portrait_of_a_Lady,8.332511070940853
+Battle Royale,Koushun Takami,4.26,83949,10073.88,https://www.goodreads.com/book/show/57891.Battle_Royale,8.332506193622159
+Possession,A.S. Byatt,3.9,83581,10029.72,https://www.goodreads.com/book/show/41219.Possession,8.332502552159765
+The Iliad / The Odyssey,Homer,4.07,82648,9917.76,https://www.goodreads.com/book/show/1375.The_Iliad_The_Odyssey,8.332493174550045
+Those Empty Eyes,Charlie Donlea,4.15,82482,9897.84,https://www.goodreads.com/book/show/62984900-those-empty-eyes,8.332491483850633
+The Arabian Nights,Anonymous,4.03,80684,9682.08,https://www.goodreads.com/book/show/93101.The_Arabian_Nights,8.332472725620361
+Jitterbug Perfume,Tom Robbins,4.23,80093,9611.16,https://www.goodreads.com/book/show/8682.Jitterbug_Perfume,8.332466375923829
+"Cry, the Beloved Country",Alan Paton,3.93,78914,9469.68,https://www.goodreads.com/book/show/6150.Cry_the_Beloved_Country,8.332453424674892
+Dandelion Wine,Ray Bradbury,4.09,77190,9262.8,https://www.goodreads.com/book/show/50033.Dandelion_Wine,8.332433774476996
+Ficciones,Jorge Luis Borges,4.4,76970,9236.4,https://www.goodreads.com/book/show/426504.Ficciones,8.332431203585426
+No One Can Know,Kate Alice Marshall,3.65,76519,9182.279999999999,https://www.goodreads.com/book/show/127305892-no-one-can-know,8.332425887046895
+Jude the Obscure,Thomas Hardy,3.83,75209,9025.08,https://www.goodreads.com/book/show/50798.Jude_the_Obscure,8.332410082782337
+"Captive in the Dark (The Dark Duet, #1)",C.J. Roberts,3.93,74804,8976.48,https://www.goodreads.com/book/show/12513614-captive-in-the-dark,8.332405084723108
+Papillon,Henri Charrière,4.23,74688,8962.56,https://www.goodreads.com/book/show/6882.Papillon,8.332403643195338
+Foucault’s Pendulum,Umberto Eco,3.91,74128,8895.359999999999,https://www.goodreads.com/book/show/17841.Foucault_s_Pendulum,8.332396620640353
+"I, Claudius (Claudius, #1)",Robert Graves,4.24,72197,8663.64,https://www.goodreads.com/book/show/18765.I_Claudius,8.332371569967131
+Geek Love,Katherine Dunn,3.95,71907,8628.84,https://www.goodreads.com/book/show/13872.Geek_Love,8.332367691637389
+"Forrest Gump (Forrest Gump, #1)",Winston Groom,4.01,71813,8617.56,https://www.goodreads.com/book/show/186190.Forrest_Gump,8.332366427802326
+القرآن الكريم,Anonymous,4.38,71668,8600.16,https://www.goodreads.com/book/show/646462._,8.332364471768924
+"Daughter of the Forest  (Sevenwaters, #1)",Juliet Marillier,4.29,70234,8428.08,https://www.goodreads.com/book/show/13928.Daughter_of_the_Forest,8.332344692421948
+"The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass (The Mortal Instruments, #1-3)",Cassandra Clare,4.55,68851,8262.119999999999,https://www.goodreads.com/book/show/6485421-the-mortal-instruments-boxed-set,8.332324836139376
+The Hotel New Hampshire,John Irving,3.93,68282,8193.84,https://www.goodreads.com/book/show/11768.The_Hotel_New_Hampshire,8.332316433267764
+"Swann’s Way (In Search of Lost Time, #1)",Marcel Proust,4.16,66986,8038.32,https://www.goodreads.com/book/show/12749.Swann_s_Way,8.332296761417632
+Illusions: The Adventures of a Reluctant Messiah,Richard Bach,4.15,66185,7942.2,https://www.goodreads.com/book/show/29946.Illusions,8.332284217947427
+All the King's Men,Robert Penn Warren,4.09,66087,7930.44,https://www.goodreads.com/book/show/5527.All_the_King_s_Men,8.332282662416914
+"Love Story (Love Story, #1)",Erich Segal,3.65,63732,7647.84,https://www.goodreads.com/book/show/73968.Love_Story,8.332243843510911
+The Magus,John Fowles,4.05,62910,7549.2,https://www.goodreads.com/book/show/16286.The_Magus,8.33222960981166
+Angle of Repose,Wallace Stegner,4.24,61570,7388.4,https://www.goodreads.com/book/show/292408.Angle_of_Repose,8.33220559179365
+"Acheron (Dark-Hunter, #14)",Sherrilyn Kenyon,4.56,61423,7370.759999999999,https://www.goodreads.com/book/show/2299110.Acheron,8.332202893203252
+Of Human Bondage,W. Somerset Maugham,4.15,60812,7297.44,https://www.goodreads.com/book/show/31548.Of_Human_Bondage,8.332191536821568
+The Magic Mountain,Thomas Mann,4.13,59572,7148.639999999999,https://www.goodreads.com/book/show/88077.The_Magic_Mountain,8.332167773482302
+Mythology,Edith Hamilton,4.03,59304,7116.48,https://www.goodreads.com/book/show/23522.Mythology,8.33216250695471
+The Waste Land,T.S. Eliot,4.11,58273,6992.759999999999,https://www.goodreads.com/book/show/34080.The_Waste_Land,8.332141794971518
+The Complete Works,William Shakespeare,4.48,57615,6913.8,https://www.goodreads.com/book/show/569564.The_Complete_Works,8.332128188812403
+"The Millennium Trilogy (Millennium Trilogy, #1-3)",Stieg Larsson,4.47,57194,6863.28,https://www.goodreads.com/book/show/7822895-the-millennium-trilogy,8.332119319141993
+Pale Fire,Vladimir Nabokov,4.17,56465,6775.8,https://www.goodreads.com/book/show/7805.Pale_Fire,8.332103647739347
+"It Ain't Me, Babe (Hades Hangmen, #1)",Tillie Cole,4.04,55766,6691.92,https://www.goodreads.com/book/show/22020052-it-ain-t-me-babe,8.332088236524566
+Gift from the Sea,Anne Morrow Lindbergh,4.14,55176,6621.12,https://www.goodreads.com/book/show/77295.Gift_from_the_Sea,8.332074924646488
+"You Are Special (Wemmicksville, #1)",Max Lucado,4.45,53519,6422.28,https://www.goodreads.com/book/show/56728.You_Are_Special,8.332035969162172
+The Power of Myth,Joseph Campbell,4.26,53309,6397.08,https://www.goodreads.com/book/show/35519.The_Power_of_Myth,8.332030859257777
+Johnny Got His Gun,Dalton Trumbo,4.21,47829,5739.48,https://www.goodreads.com/book/show/51606.Johnny_Got_His_Gun,8.331881654495792
+"Absalom, Absalom!",William Faulkner,3.99,47364,5683.679999999999,https://www.goodreads.com/book/show/373755.Absalom_Absalom_,8.331867405025438
+Gravity’s Rainbow,Thomas Pynchon,4.01,47324,5678.88,https://www.goodreads.com/book/show/415.Gravity_s_Rainbow,8.33186616618661
+The Twilight Collection,Stephenie Meyer,3.82,47217,5666.04,https://www.goodreads.com/book/show/690926.The_Twilight_Collection,8.33186284197747
+"Think Twice (Myron Bolitar, #12)",Harlan Coben,4.24,46077,5529.24,https://www.goodreads.com/book/show/198494009-think-twice,8.331826466844115
+"Consequences (Consequences, #1)",Aleatha Romig,3.92,43203,5184.36,https://www.goodreads.com/book/show/12368985-consequences,8.331726244658038
+My Name Is Asher Lev,Chaim Potok,4.24,43095,5171.4,https://www.goodreads.com/book/show/11507.My_Name_Is_Asher_Lev,8.331722217925915
+"Tears of Tess (Monsters in the Dark, #1)",Pepper Winters,3.99,42465,5095.8,https://www.goodreads.com/book/show/18134894-tears-of-tess,8.331698320514832
+"Viciously Yours (Fae Kings of Eden, #1)",Jamie Applegate Hunter,3.6,41863,5023.5599999999995,https://www.goodreads.com/book/show/205404157-viciously-yours,8.331674813316988
+The Complete Calvin and Hobbes,Bill Watterson,4.81,41807,5016.84,https://www.goodreads.com/book/show/24812.The_Complete_Calvin_and_Hobbes,8.331672592191062
+The Shards,Bret Easton Ellis,4.0,40505,4860.599999999999,https://www.goodreads.com/book/show/60880820-the-shards,8.331619220009875
+The Elephant Tree,R.D. Ronald,3.89,38572,4628.639999999999,https://www.goodreads.com/book/show/9293020-the-elephant-tree,8.331533337365325
+The Zombie Room,R.D. Ronald,3.91,38357,4602.84,https://www.goodreads.com/book/show/29908754-the-zombie-room,8.33152325015639
+The Complete Novels,Jane Austen,4.57,33893,4067.16,https://www.goodreads.com/book/show/14905.The_Complete_Novels,8.331284905215135
+"Killing Sarai (In the Company of Killers, #1)",J.A. Redmerski,4.08,32701,3924.12,https://www.goodreads.com/book/show/20559676-killing-sarai,8.331210255992174
+"Truth (Consequences, #2)",Aleatha Romig,4.34,32557,3906.8399999999997,https://www.goodreads.com/book/show/16070018-truth,8.33120086799869
+"Souls Unfractured (Hades Hangmen, #3)",Tillie Cole,4.41,28092,3371.04,https://www.goodreads.com/book/show/22107214-souls-unfractured,8.330862030106404
+"Sheever's Journal, Diary of a Poison Master",K.  Ritz,4.3,27833,3339.96,https://www.goodreads.com/book/show/52022378-sheever-s-journal-diary-of-a-poison-master,8.33083904027585
+"Being a Witch, and Other Things I Didn't Ask For",Sara Pascoe,4.28,26647,3197.64,https://www.goodreads.com/book/show/34186576-being-a-witch-and-other-things-i-didn-t-ask-for,8.330728059425256
+"The Girl in the Eagle's Talons (Millennium, #7)",Karin Smirnoff,3.42,18748,2249.7599999999998,https://www.goodreads.com/book/show/75523433-the-girl-in-the-eagle-s-talons,8.32963088023601
+The Three Witches and the Master,Max Nowaz,4.3,18036,2164.3199999999997,https://www.goodreads.com/book/show/156150514-the-three-witches-and-the-master,8.329484787467905
+A Story of Yesterday,Sergio Cobo,4.53,17671,2120.52,https://www.goodreads.com/book/show/58913358-a-story-of-yesterday,8.329405332026095
+Murder on Family Grounds (Mary Wandwalker #3),Susan  Rowland,4.29,17057,2046.84,https://www.goodreads.com/book/show/205338104-murder-on-family-grounds,8.329264005000391
+Taming Flame,Therisa Peimer,4.28,16920,2030.3999999999999,https://www.goodreads.com/book/show/61608233-taming-flame,8.329231072166978
+"The High Auction (Wisdom Revolution, #1)",Misba,4.69,16547,1985.6399999999999,https://www.goodreads.com/book/show/60215314-the-high-auction,8.329138646156325
+"The Eden Paradox (Eden Paradox, #1)",Barry Kirwan,4.21,16170,1940.3999999999999,https://www.goodreads.com/book/show/43722869-the-eden-paradox,8.3290408983208
+Pericles and Aspasia: A Story of Ancient Greece,Yvonne Korshak,4.29,15905,1908.6,https://www.goodreads.com/book/show/62986809-pericles-and-aspasia,8.328969417679096
+The Polymorph,Max Nowaz,4.28,14981,1797.72,https://www.goodreads.com/book/show/101265124-the-polymorph,8.328700409179861
+"The Oldest Dance (Wisdom Revolution, #2)",Misba,4.7,13550,1626.0,https://www.goodreads.com/book/show/60215458-the-oldest-dance,8.32821143208359
+"A Dead and Stormy Night (Nevermore Bookshop Mysteries, #1)",Steffanie Holmes,3.91,12928,1551.36,https://www.goodreads.com/book/show/43594238-a-dead-and-stormy-night,8.327965162719988
+The Roommate,Kiersten Modglin,3.77,12893,1547.1599999999999,https://www.goodreads.com/book/show/57040367-the-roommate,8.32795059942125
+Blood River: A Journey to Africa’s Broken Heart,Tim Butcher,3.98,11941,1432.9199999999998,https://www.goodreads.com/book/show/2184798.Blood_River,8.327521758536042
+"Magical Midlife Awakening (Leveling Up, #9)",K.F. Breene,4.63,11072,1328.6399999999999,https://www.goodreads.com/book/show/205840559-magical-midlife-awakening,8.327065972744503
+The Compleat Works of Wllm Shkspr,Reduced Shakespeare Company,4.43,9774,1172.8799999999999,https://www.goodreads.com/book/show/1423.The_Compleat_Works_of_Wllm_Shkspr,8.32623436807851
+A Winter Grave,Peter  May,4.06,9267,1112.04,https://www.goodreads.com/book/show/67998095-a-winter-grave,8.325846330769783
+"The Lies of Vampires and Slayers (Magic on Main Street, #1)",K.M. Shea,4.35,8546,1025.52,https://www.goodreads.com/book/show/202901080-the-lies-of-vampires-and-slayers,8.325215290496045
+"Heretical Fishing (Heretical Fishing, #1)",Haylock Jobson,4.26,7555,906.6,https://www.goodreads.com/book/show/208099994-heretical-fishing,8.324151608638166
+"Inara (Godfrey Davis, #3)",A.R. Merrydew,4.35,6198,743.76,https://www.goodreads.com/book/show/215186841-inara,8.32214404640421
+Head Like a Hole,Andrew Van Wey,3.85,5802,696.24,https://www.goodreads.com/book/show/61800582-head-like-a-hole,8.321381446847571
+Houdini Heart,Ki Longfellow,3.84,5458,654.9599999999999,https://www.goodreads.com/book/show/11324204-houdini-heart,8.320629306665042
+"Not Forever, But For Now",Chuck Palahniuk,3.04,4847,581.64,https://www.goodreads.com/book/show/101145468-not-forever-but-for-now,8.31903061925031
+The Secret Magdalene,Ki Longfellow,4.14,4722,566.64,https://www.goodreads.com/book/show/514811.The_Secret_Magdalene,8.318652667183427
+Mistress Suffragette,Diana   Forbes,4.29,4571,548.52,https://www.goodreads.com/book/show/34521870-mistress-suffragette,8.318168583491047
+Flow Down Like Silver,Ki Longfellow,4.01,4510,541.1999999999999,https://www.goodreads.com/book/show/6801755-flow-down-like-silver,8.3179638509775
+The Trigger: Hunting the Assassin Who Brought the World to War,Tim Butcher,3.81,4053,486.35999999999996,https://www.goodreads.com/book/show/18300212-the-trigger,8.31623440577807
+Living Fearless: Exchanging the Lies of the World for the Liberating Truth of God,Jamie Winship,4.44,3557,426.84,https://www.goodreads.com/book/show/59317244-living-fearless,8.313855646970831
+انتحار فاشل,أحمد جمال الدين رمضان,4.54,3304,396.47999999999996,https://www.goodreads.com/book/show/30528535,8.312367917882662
+العصبي,أحمد جمال الدين رمضان,4.59,2882,345.84,https://www.goodreads.com/book/show/30528544,8.30930688501903
+I'm Glad You're Dead: Preternatural Chronicles Book 1,Hunter Blain,4.22,2602,312.24,https://www.goodreads.com/book/show/197891975-i-m-glad-you-re-dead,8.30672966415528
+"Worm Holes (Quantum Roots, #2)",Kyle Keyes,4.34,2105,252.6,https://www.goodreads.com/book/show/34384161-worm-holes,8.300473186119874
+Chasing the Devil: The Search for Africa's Fighting Spirit,Tim Butcher,4.13,1941,232.92,https://www.goodreads.com/book/show/7940583-chasing-the-devil,8.297708618331054
+The Addiction Manifesto,Jerry Weaver,4.75,1254,150.48,https://www.goodreads.com/book/show/58572970-the-addiction-manifesto,8.278320570372326
+The Chain Between Worlds (The Lost Artefacts #1),Johnathon Nicolaou,4.42,1223,146.76,https://www.goodreads.com/book/show/60288648-the-chain-between-worlds,8.276935571196535
+زندگی مه آلود پریا,سید مرتضی مصطفوی,3.34,1032,123.83999999999999,https://www.goodreads.com/book/show/40937505,8.266581223966678

@@ -1,7 +1,17 @@
 #!/usr/bin/env python3
 """
-Goodreads Scraper - Hızlı Başlangıç Scripti
-Bu script, gerekli kütüphaneleri kontrol eder ve scraper'ı çalıştırır
+Goodreads Scraper -     url = input("🔗 Different list URL? (Enter = Best Books Ever): ").strip()
+    if not url:
+        url = "https://www.goodreads.com/list/show/1.Best_Books_Ever"
+    
+    delay = input("⏱️ Delay between requests (seconds, default: 1.5): ").strip()
+    if not delay:
+        delay = "1.5"
+    
+    output = input("💾 Output filename (default: goodreads_books.csv): ").strip()
+    if not output:
+        output = "goodreads_books.csv" Script
+This script checks required libraries and runs the scraper
 """
 
 import subprocess
@@ -10,7 +20,7 @@ import os
 from pathlib import Path
 
 def check_requirements():
-    """Gerekli kütüphanelerin yüklenip yüklenmediğini kontrol eder"""
+    """Check if required libraries are installed"""
     required_packages = [
         'requests', 'beautifulsoup4', 'pandas', 'lxml', 'numpy', 'tqdm'
     ]
@@ -26,47 +36,47 @@ def check_requirements():
     return missing_packages
 
 def install_requirements():
-    """Eksik kütüphaneleri yükler"""
-    print("🔧 Gerekli kütüphaneler yükleniyor...")
+    """Install missing libraries"""
+    print("🔧 Installing required libraries...")
     try:
         subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt"])
-        print("✅ Kütüphaneler başarıyla yüklendi!")
+        print("✅ Libraries successfully installed!")
         return True
     except subprocess.CalledProcessError as e:
-        print(f"❌ Kütüphane yükleme hatası: {e}")
+        print(f"❌ Library installation error: {e}")
         return False
 
 def run_scraper():
-    """Ana scraper'ı çalıştırır"""
-    print("\n📚 Goodreads scraper başlatılıyor...")
+    """Run the scraper script with user-defined parameters"""
+    print("\n📚 Starting Goodreads Scraper")
     
     # Kullanıcıdan parametreler al
-    pages = input("� Kaç sayfa işlensin? (varsayılan: 10): ").strip()
+    pages = input("How many pages do you want to be processed?(Default 10):  ").strip()
     if not pages:
         pages = "10"
     
-    url = input("🔗 Farklı liste URL'si? (Enter = Best Books Ever): ").strip()
+    url = input("🔗 Different List URL? (Enter = Best Books Ever): ").strip()
     if not url:
         url = "https://www.goodreads.com/list/show/1.Best_Books_Ever"
     
-    delay = input("⏱️  İstekler arası gecikme (saniye, varsayılan: 1.5): ").strip()
+    delay = input("⏱️  Dely between requests(Default:1.5 secs): ").strip()
     if not delay:
         delay = "1.5"
     
-    output = input("� Çıktı dosyası adı (varsayılan: goodreads_books.csv): ").strip()
+    output = input("� Output file name(Default: goodreads_books.csv): ").strip()
     if not output:
         output = "goodreads_books.csv"
     
-    print(f"\n🎯 Hedef: {url}")
-    print(f"📄 {pages} sayfa (yaklaşık {int(pages) * 100} kitap) işlenecek...")
-    print(f"⏱️  Bu işlem {int(pages) * 0.5}-{int(pages)} dakika sürebilir...\n")
+    print(f"\n🎯 Target: {url}")
+    print(f"📄 {pages} pages (approximately {int(pages) * 100} books) will be processed...")
+    print(f"⏱️ This process may take {int(pages) * 0.5}-{int(pages)} minutes...\n")
     
     try:
-        # src klasörüne geç
+        # Change to src folder
         original_dir = os.getcwd()
         os.chdir('src')
         
-        # Scraper'ı argümanlarla çalıştır
+        # Run scraper with arguments
         command = [
             sys.executable, "goodreads_scraper.py",
             "--pages", pages,
@@ -77,78 +87,78 @@ def run_scraper():
         
         result = subprocess.run(command, capture_output=True, text=True)
         
-        # Orijinal klasöre geri dön
+        # Return to original folder
         os.chdir(original_dir)
         
         if result.returncode == 0:
-            print("✅ Scraping başarıyla tamamlandı!")
-            print(f"📊 Çıktı: {result.stdout}")
+            print("✅ Scraping completed successfully!")
+            print(f"📊 Output: {result.stdout}")
             
-            # Veri dosyası oluştu mu kontrol et
+            # Check if data file was created
             data_file = Path(f'data/{output}')
             if data_file.exists():
-                print(f"\n📁 Veri dosyası oluşturuldu: {data_file}")
-                print(f"📏 Dosya boyutu: {data_file.stat().st_size / 1024:.1f} KB")
+                print(f"\n📁 Data file created: {data_file}")
+                print(f"📏 File size: {data_file.stat().st_size / 1024:.1f} KB")
             
         else:
-            print("❌ Scraping sırasında hata oluştu:")
+            print("❌ Error occurred during scraping:")
             print(result.stderr)
             
     except Exception as e:
-        print(f"❌ Script çalıştırma hatası: {e}")
+        print(f"❌ Script execution error: {e}")
         os.chdir(original_dir)
 
 def show_project_info():
-    """Proje bilgilerini gösterir"""
+    """Display project information"""
     print("="*60)
-    print("📚 GOODREADS WEB SCRAPER PROJESİ")
+    print("📚 GOODREADS WEB SCRAPER PROJECT")
     print("="*60)
-    print("🎯 Amaç: Goodreads'ten en popüler kitapları toplamak")
-    print("📊 Hedef: ~1000 kitap verisi")
-    print("🔧 Teknoloji: Python + BeautifulSoup + Pandas")
-    print("📁 Klasör yapısı:")
-    print("   ├── src/                 # Python kodları")
-    print("   ├── data/                # Toplanan veriler")
-    print("   ├── requirements.txt     # Gerekli kütüphaneler")
-    print("   └── README.md           # Dokümantasyon")
+    print("🎯 Purpose: Collect most popular books from Goodreads")
+    print("📊 Target: ~1000 book records")
+    print("🔧 Technology: Python + BeautifulSoup + Pandas")
+    print("📁 Folder structure:")
+    print("   ├── src/                 # Python code")
+    print("   ├── data/                # Collected data")
+    print("   ├── requirements.txt     # Required libraries")
+    print("   └── README.md           # Documentation")
     print("="*60)
 
 def main():
-    """Ana fonksiyon"""
+    """Main function"""
     show_project_info()
     
-    # Gerekli kütüphaneleri kontrol et
+    # Check required libraries
     missing = check_requirements()
     
     if missing:
-        print(f"\n⚠️  Eksik kütüphaneler tespit edildi: {', '.join(missing)}")
+        print(f"\n⚠️ Missing libraries detected: {', '.join(missing)}")
         
-        install_choice = input("\n🤔 Eksik kütüphaneleri yüklemek ister misiniz? (y/n): ").lower().strip()
+        install_choice = input("\n🤔 Would you like to install missing libraries? (y/n): ").lower().strip()
         
-        if install_choice in ['y', 'yes', 'e', 'evet']:
+        if install_choice in ['y', 'yes']:
             if not install_requirements():
-                print("❌ Kurulum başarısız. Manuel olarak 'pip install -r requirements.txt' çalıştırın.")
+                print("❌ Installation failed. Run 'pip install -r requirements.txt' manually.")
                 return
         else:
-            print("❌ Gerekli kütüphaneler olmadan scraper çalışmaz.")
-            print("💡 Yükleme komutu: pip install -r requirements.txt")
+            print("❌ Scraper cannot run without required libraries.")
+            print("💡 Install command: pip install -r requirements.txt")
             return
     
     else:
-        print("\n✅ Tüm gerekli kütüphaneler yüklü!")
+        print("\n✅ All required libraries are installed!")
     
-    # Scraper'ı çalıştır
-    run_choice = input("\n🚀 Scraper'ı başlatmak ister misiniz? (y/n): ").lower().strip()
+    # Run scraper
+    run_choice = input("\n🚀 Would you like to start the scraper? (y/n): ").lower().strip()
     
-    if run_choice in ['y', 'yes', 'e', 'evet']:
+    if run_choice in ['y', 'yes']:
         run_scraper()
         
-        # Analiz önerisi
-        print("\n💡 İPUCU: Toplanan veriyi analiz etmek için:")
+        # Analysis suggestion
+        print("\n💡 TIP: To analyze the collected data:")
         print("   cd src && python analyze_data.py")
         
     else:
-        print("👋 İyi günler! Hazır olduğunuzda tekrar çalıştırın.")
+        print("👋 Have a great day! Run again when you're ready.")
 
 if __name__ == "__main__":
     main()

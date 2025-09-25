@@ -1,38 +1,55 @@
-# 🛠️ Goodreads Scraper - Kullanım Kılavuzu
+# � Goodreads Scraper - Detailed Usage Guide
 
-## 📋 Command Line Parametreleri
+This documentation explains the detailed usage of all Goodreads Scraper features.
 
-### Temel Kullanım
-```bash
-python goodreads_scraper.py [PARAMETRELER]
-```
+## 📋 Table of Contents
 
-### Mevcut Parametreler
+1. [B## � Checkpoint System
 
-| Parametre | Açıklama | Varsayılan | Örnek |
-|-----------|----------|------------|--------|
-| `--pages` | Kazınacak sayfa sayısı | 10 | `--pages 5` |
-| `--url` | Goodreads liste URL'si | Best Books Ever | `--url "https://..."` |
-| `--delay` | İstekler arası gecikme (saniye) | 1.5 | `--delay 2.0` |
-| `--output` | Çıktı CSV dosyası adı | goodreads_books.csv | `--output "my_books.csv"` |
-| `--verbose` | Detaylı debug logları | Kapalı | `--verbose` |
-| `--resume` | Önceki session'dan devam et | Kapalı | `--resume` |
-| `--session-id` | Belirli session ID ile devam et | - | `--session-id session_123` |
-| `--list-checkpoints` | Checkpoint'leri listele | - | `--list-checkpoints` |
+### What is a Checkpoint?
+If an err- 🗑️ Auto-cleanup: Files are deleted when process completes successfully
 
-## 🚀 Kullanım Örnekleri
+## 🔧 Troubleshooting
 
-### 1. Hızlı Test (5 sayfa)
+### Common Errorscurs during scraping or the process is interrupted, collected data is automatically saved. This allows you to resume from where you left off. Usage](#basic-usage)
+2. [Command Line Parameters](#command-line-parameters)
+3. [Checkpoint/Resume System](#checkpointresume-system)
+4. [Working with Different Lists](#working-with-different-lists)
+5. [Error Management](#error-management)
+6. [Tips and Best Practices](#tips-and-best-practices)
+
+## 🚀 Basic Usage
+
+### 1. Quick Start (Recommended)
+
+For the simplest usage, run the interactive script:
+
+### Available Parameters
+
+| Parameter | Description | Default | Example |
+|-----------|-------------|---------|---------|
+| `--pages` | Number of pages to scrape | 10 | `--pages 5` |
+| `--url` | Goodreads list URL | Best Books Ever | `--url "https://..."` |
+| `--delay` | Delay between requests (seconds) | 1.5 | `--delay 2.0` |
+| `--output` | Output CSV file name | goodreads_books.csv | `--output "my_books.csv"` |
+| `--verbose` | Detailed debug logs | Off | `--verbose` |
+| `--resume` | Resume from previous session | Off | `--resume` |
+| `--session-id` | Resume with specific session ID | - | `--session-id session_123` |
+| `--list-checkpoints` | List available checkpoints | - | `--list-checkpoints` |
+
+## 🚀 Usage Examples
+
+### 1. Quick Test (5 pages)
 ```bash
 python goodreads_scraper.py --pages 5
 ```
 
-### 2. Büyük Veri Seti (20 sayfa)
+### 2. Large Dataset (20 pages)
 ```bash
 python goodreads_scraper.py --pages 20 --delay 2.0 --output "big_dataset.csv"
 ```
 
-### 3. Farklı Liste (Bilim Kurgu)
+### 3. Different List (Science Fiction)
 ```bash
 python goodreads_scraper.py \
   --url "https://www.goodreads.com/list/show/3.Best_Science_Fiction_Fantasy_Books" \
@@ -40,48 +57,82 @@ python goodreads_scraper.py \
   --output "sci_fi_books.csv"
 ```
 
-### 4. Debug Modunda
+### 4. Debug Mode
 ```bash
 python goodreads_scraper.py --pages 3 --verbose
 ```
 
-### 5. Checkpoint'leri Listele
+### 5. List Checkpoints
 ```bash
 python goodreads_scraper.py --list-checkpoints
 ```
 
-### 6. Kesintiden Devam Et
+### 6. Resume from Interruption
 ```bash
-# Otomatik checkpoint seçimi
+# Automatic checkpoint selection
 python goodreads_scraper.py --resume
 
-# Belirli session'dan devam
+# Resume from specific session
 python goodreads_scraper.py --resume --session-id session_1727226123
 ```
 
-### 7. Çok Hızlı Kazıma (Dikkatli Kullanın!)
+### 7. Very Fast Scraping (Use Carefully!)
 ```bash
 python goodreads_scraper.py --pages 10 --delay 0.5
 ```
 
-## 📊 Popüler Goodreads Listeleri
+## 📊 Popular Goodreads Lists
 
-### En Popüler Listeler
+### Most Popular Lists
 ```bash
-# En İyi Kitaplar
+# Best Books Ever
 --url "https://www.goodreads.com/list/show/1.Best_Books_Ever"
 
-# Herkesin Okuması Gereken Kitaplar  
+# Books Everyone Should Read At Least Once  
 --url "https://www.goodreads.com/list/show/264.Books_That_Everyone_Should_Read_At_Least_Once"
 
-# En İyi Bilim Kurgu & Fantasy
+# Best Science Fiction & Fantasy
 --url "https://www.goodreads.com/list/show/3.Best_Science_Fiction_Fantasy_Books"
 
-# En İyi Gizem & Gerilim
 --url "https://www.goodreads.com/list/show/18.Best_Mystery_Thriller_Books"
 
-# En İyi Romantik Kitaplar
+# Best Romance Books
 --url "https://www.goodreads.com/list/show/8.Best_Romance_Novels"
+```
+
+### Lists by Genre
+```bash
+# Classic Literature
+--url "https://www.goodreads.com/list/show/12.Best_Books_of_the_20th_Century"
+
+# Young Adult (YA)
+--url "https://www.goodreads.com/list/show/43.Best_Young_Adult_Books"
+
+# Non-Fiction
+--url "https://www.goodreads.com/list/show/7.Best_Nonfiction"
+```
+
+## 💡 Tips
+
+### Performance Optimization
+- **For small tests**: `--pages 1-3`
+- **For normal usage**: `--pages 10-15` 
+- **For large datasets**: `--pages 20+`
+
+### Rate Limiting
+- **Safe**: `--delay 1.5-2.0`
+- **Fast**: `--delay 1.0` (use carefully)
+- **Very fast**: `--delay 0.5` (for testing only)
+
+### Output File Names
+- Add date: `--output "books_2025_09_25.csv"`
+- Specify genre: `--output "fantasy_books.csv"`
+- Add page count: `--output "books_20_pages.csv"`
+
+## 🔄 Checkpoint System
+
+### What is a Checkpoint?
+If an error occurs during scraping or the process is interrupted, collected data is automatically saved. This allows you to resume from where you left off.
 ```
 
 ### Türe Göre Listeler
@@ -96,106 +147,118 @@ python goodreads_scraper.py --pages 10 --delay 0.5
 --url "https://www.goodreads.com/list/show/7.Best_Nonfiction"
 ```
 
-## 💡 İpuçları
+## 💡 Tips
 
-### Performans Optimizasyonu
-- **Küçük testler için**: `--pages 1-3`
-- **Normal kullanım için**: `--pages 10-15` 
-- **Büyük veri setleri için**: `--pages 20+`
+### Performance Optimization
+- **For small tests**: `--pages 1-3`
+- **For normal usage**: `--pages 10-15` 
+- **For large datasets**: `--pages 20+`
 
 ### Rate Limiting
-- **Güvenli**: `--delay 1.5-2.0`
-- **Hızlı**: `--delay 1.0` (dikkatli kullanın)
-- **Çok hızlı**: `--delay 0.5` (sadece test için)
+- **Safe**: `--delay 1.5-2.0`
+- **Fast**: `--delay 1.0` (use carefully)
+- **Very fast**: `--delay 0.5` (for testing only)
 
-### Çıktı Dosya İsimleri
-- Tarih ekleyin: `--output "books_2025_09_25.csv"`
-- Tür belirtin: `--output "fantasy_books.csv"`
-- Sayfa sayısı ekleyin: `--output "books_20_pages.csv"`
+### Output File Names
+- Add date: `--output "books_2025_09_25.csv"`
+- Specify genre: `--output "fantasy_books.csv"`
+- Add page count: `--output "books_20_pages.csv"`
 
-## � Checkpoint Sistemi
+## What is Checkpoint?
+If an error occurs during scraping or the process is interrupted, collected data is automatically saved. This allows you to resume from where you left off.
 
-### Checkpoint Nedir?
-Scraping sırasında hata oluşursa veya işlem kesilirse, toplanan veriler otomatik olarak kaydedilir. Bu sayede kaldığınız yerden devam edebilirsiniz.
+### When are Checkpoints Saved?
+- ✅ Automatically every 2 pages
+- ✅ When an error occurs
+- ✅ When the process is interrupted (Ctrl+C)
 
-### Checkpoint'ler Ne Zaman Kaydedilir?
-- ✅ Her 2 sayfada bir otomatik
-- ✅ Hata oluştuğunda
-- ✅ İşlem kesildiğinde (Ctrl+C)
+### Using Checkpoints
 
-### Checkpoint Kullanımı
-
-#### 1. Mevcut Checkpoint'leri Görüntüle
+#### 1. View Available Checkpoints
 ```bash
 python goodreads_scraper.py --list-checkpoints
 ```
 
-#### 2. Kesintiden Sonra Devam Et
+#### 2. Resume After Interruption
 ```bash
-# İnteraktif seçim
+# Interactive selection
 python goodreads_scraper.py --resume
 
-# Belirli session ile
+# With specific session
 python goodreads_scraper.py --resume --session-id session_1727226123
 ```
 
-#### 3. Checkpoint Örnek Senaryosu
+#### 3. Checkpoint Example Scenario
 ```bash
-# 1. Büyük bir scraping başlat
+# 1. Start a large scraping operation
 python goodreads_scraper.py --pages 50 --output "big_dataset.csv"
 
-# 2. Hata oluştu! (internet kesildi, vs.)
-# Çıktıda şöyle bir mesaj görürsünüz:
-# "Checkpoint kaydedildi. Resume için: --resume --session-id session_1727226123"
+# 2. Error occurred! (internet disconnected, etc.)
+# You will see a message like:
+# "Checkpoint saved. To resume: --resume --session-id session_1727226123"
 
-# 3. Kaldığınız yerden devam edin
+# 3. Resume from where you left off
 python goodreads_scraper.py --resume --session-id session_1727226123
 ```
 
-### Checkpoint Dosyaları
-- 📁 Konum: `data/checkpoints/`
+### Checkpoint Files
+- 📁 Location: `data/checkpoints/`
 - 📝 Format: JSON (checkpoint_SESSION_ID.json)
-- 🗑️ Otomatik silinme: İşlem başarıyla tamamlandığında
+- 🗑️ Auto-deletion: When operation completes successfully
+
+## 🔧 Troubleshooting
+
+### Common Errors
+```bash
+# File not found
+cd src && python goodreads_scraper.py
+
+# Missing library
+
+### Checkpoint Files
+- 📁 Location: `data/checkpoints/`
+- 📝 Format: JSON (checkpoint_SESSION_ID.json)
+- 🗑️ Auto-cleanup: Files are deleted when process completes successfully
 
 ## �🔧 Sorun Giderme
 
-### Yaygın Hatalar
+### Common Errors
 ```bash
-# Dosya bulunamadı
+# File not found
 cd src && python goodreads_scraper.py
 
-# Kütüphane eksik
+# Missing library
 pip install -r requirements.txt
 
 # Permission denied
 chmod +x goodreads_scraper.py
 ```
 
-### Checkpoint Sorunları
+### Checkpoint Issues
 ```bash
-# Bozuk checkpoint temizle
+# Clean corrupted checkpoint
 rm -rf ../data/checkpoints/checkpoint_SESSION_ID.json
 
-# Tüm checkpoint'leri temizle
+# Clean all checkpoints
 rm -rf ../data/checkpoints/*.json
 ```
 
-### Debug Modu
-Herhangi bir sorun yaşarsanız `--verbose` parametresini kullanın:
+### Debug Mode
+If you experience any problems, use the `--verbose` parameter:
 ```bash
 python goodreads_scraper.py --pages 1 --verbose
 ```
 
-## 📈 Performans Rehberi
+## 📈 Performance Guide
 
-| Sayfa Sayısı | Tahmini Süre | Kitap Sayısı | Dosya Boyutu |
-|--------------|--------------|--------------|--------------|
-| 1 | 10 saniye | ~100 | ~12 KB |
-| 5 | 1 dakika | ~500 | ~60 KB |
-| 10 | 2-3 dakika | ~1000 | ~120 KB |
-| 20 | 5-6 dakika | ~2000 | ~240 KB |
-| 50 | 12-15 dakika | ~5000 | ~600 KB |
+| Page Count | Estimated Time | Book Count | File Size |
+|------------|----------------|------------|-----------|
+| 1 | 10 seconds | ~100 | ~12 KB |
+| 5 | 1 minute | ~500 | ~60 KB |
+| 10 | 2-3 minutes | ~1000 | ~120 KB |
+| 20 | 5-6 minutes | ~2000 | ~240 KB |
+| 50 | 12-15 minutes | ~5000 | ~600 KB |
 
 ---
 
-**⚠️ Not**: Goodreads'in kullanım şartlarına saygı gösterin ve aşırı hızlı istek göndermeyin.
+**⚠️ Note**: Respect Goodreads' terms of service and don't send requests too quickly.

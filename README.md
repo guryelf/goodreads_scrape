@@ -1,89 +1,89 @@
-# 📚 Goodreads En Popüler Kitaplar Veri Seti - Web Scraping Projesi
+# 📚 Goodreads Most Popular Books Dataset - Web Scraping Project
 
-Bu proje, **Goodreads.com**'dan "Best Books Ever" listesindeki en popüler kitapların bilgilerini otomatik olarak toplayan bir Python web scraping uygulamasıdır. Kitap okurları, yazarlar ve veri analisti adayları için zengin bir veri seti oluşturur.
+This project is a Python web scraping application that automatically collects information about the most popular books from Goodreads.com's "Best Books Ever" list. It creates a rich dataset for book readers, authors, and aspiring data analysts.
 
-## 🎯 Proje Amacı
+## 🎯 Project Purpose
 
-Goodreads'in "Best Books Ever" listesinden şu bilgileri toplayarak temizlenmiş bir veri seti oluşturmak:
-- 📖 Kitap Adı 
-- ✍️ Yazar Adı
-- ⭐ Ortalama Puan
-- 📊 Toplam Puan Sayısı
-- 💬 Yorum Sayısı
-- 🔗 Kitap URL'si
-- 📈 Puan/Yorum Oranı (yeni özellik)
+To create a cleaned dataset by collecting the following information from Goodreads' "Best Books Ever" list:
+- 📖 Book Title 
+- ✍️ Author Name
+- ⭐ Average Rating
+- 📊 Total Rating Count
+- 💬 Review Count
+- 🔗 Book URL
+- 📈 Rating/Review Ratio (new feature)
 
-## 🛠️ Teknik Özellikler
+## 🛠️ Technical Specifications
 
-### Kullanılan Teknolojiler
+### Used technologies
 - **Python 3.8+**
-- **requests**: HTTP istekleri için
-- **BeautifulSoup4**: HTML parsing için
-- **pandas**: Veri işleme ve analiz
+- **requests**: For HTTP requests
+- **BeautifulSoup4**: For HTML parsing
+- **pandas**: Data processing and analysis
 - **tqdm**: Progress bar
 - **lxml**: XML/HTML parser
 
-### Scraping Özellikleri
-- ✅ **Çoklu sayfa gezinme** (pagination)
-- ✅ **Rate limiting** (istekler arası 1.5 saniye bekleme)
+### Scraping Specifications
+- ✅ **Pagination**
+- ✅ **Rate limiting** (1.5 seconds wait between requests)
 - ✅ **Hata yakalama ve logging**
-- ✅ **robots.txt uyumlu** işlemler
-- ✅ **Veri temizleme** ve doğrulama
-- ✅ **Progress tracking** (tqdm ile)
-- ✅ **Checkpoint sistemi** (kesintiden sonra devam etme)
-- ✅ **Resume özelliği** (kaldığınız yerden başlayın)
+- ✅ **robots.txt compliant** operations
+- ✅ **Data cleaning** and validation
+- ✅ **Progress tracking** (with tqdm)
+- ✅ **Checkpoint system** (resume after interruption)
+- ✅ **Resume feature** (start from where you left off)
 
-## 📁 Proje Yapısı
+## 📁 Project Structure
 
 ```
 goodreads-scraper/
 │
 ├── src/
-│   └── goodreads_scraper.py    # Ana scraper kodu
+│   └── goodreads_scraper.py    # Main scraper code
 │
 ├── data/
-│   └── goodreads_top_1000_books.csv    # Toplanan veri seti
+│   └── goodreads_top_1000_books.csv    # Collected dataset
 │
-├── requirements.txt            # Python bağımlılıkları
-├── README.md                  # Bu dokümantasyon
-└── scraper.log               # Çalışma logları
+├── requirements.txt            # Python dependencies
+├── README.md                  # This documentation
+└── scraper.log               # Operation logs
 ```
 
-## 🚀 Kurulum ve Kullanım
+## 🚀 Installation and Usage
 
-### 1. Projeyi İndirin
+### 1. Download the Project
 ```bash
 git clone <repository-url>
 cd goodreads-scraper
 ```
 
-### 2. Virtual Environment Oluşturun (Önerilen)
+### 2. Create Virtual Environment (Recommended)
 ```bash
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
-# veya
+# or
 venv\Scripts\activate     # Windows
 ```
 
-### 3. Bağımlılıkları Yükleyin
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Scraper'ı Çalıştırın
+### 4. Run the Scraper
 
-#### Hızlı Başlangıç (Interaktif)
+#### Quick Start (Interactive)
 ```bash
 python run_scraper.py
 ```
 
-#### Command Line ile
+#### With Command Line
 ```bash
 cd src
 python goodreads_scraper.py --pages 10 --delay 1.5
 ```
 
-#### Farklı Liste ile
+#### With Different List
 ```bash
 cd src
 python goodreads_scraper.py \
@@ -92,120 +92,123 @@ python goodreads_scraper.py \
   --output "sci_fi_books.csv"
 ```
 
-## ⚙️ Konfigürasyon
+## ⚙️ Configuration
 
-### Command Line Parametreleri
+### Command Line Parameters
 
-| Parametre | Açıklama | Varsayılan | Örnek |
-|-----------|----------|------------|--------|
-| `--pages` | Kazınacak sayfa sayısı | 10 | `--pages 5` |
-| `--url` | Goodreads liste URL'si | Best Books Ever | `--url "https://..."` |
-| `--delay` | İstekler arası gecikme | 1.5s | `--delay 2.0` |
-| `--output` | Çıktı dosyası adı | goodreads_books.csv | `--output "my_books.csv"` |
-| `--verbose` | Detaylı loglar | Kapalı | `--verbose` |
+| Parameter | Description | Default | Example |
+|-----------|-------------|---------|---------|
+| `--pages` | Number of pages to scrape | 10 | `--pages 5` |
+| `--url` | Goodreads list URL | Best Books Ever | `--url "https://..."` |
+| `--delay` | Delay between requests | 1.5s | `--delay 2.0` |
+| `--output` | Output file name | goodreads_books.csv | `--output "my_books.csv"` |
+| `--verbose` | Detailed logs | Off | `--verbose` |
 
-### Örnekler
+### Examples
 ```bash
-# Hızlı test (5 sayfa)
+# Quick test (5 pages)
 python goodreads_scraper.py --pages 5
 
-# Büyük veri seti (20 sayfa, yavaş)  
+# Large dataset (20 pages, slow)  
 python goodreads_scraper.py --pages 20 --delay 2.0
 
-# Bilim kurgu kitapları
+# Science fiction books
 python goodreads_scraper.py \
   --url "https://www.goodreads.com/list/show/3.Best_Science_Fiction_Fantasy_Books" \
   --pages 10 \
   --output "sci_fi_books.csv"
 ```
 
-### Resume/Checkpoint Sistemi
-```bash
-# Mevcut checkpoint'leri görüntüle
-python goodreads_scraper.py --list-checkpoints
+## ✨ New Features (v2.0)
 
-# Kesintiden sonra devam et
-python goodreads_scraper.py --resume
+### 🔄 Checkpoint/Resume System
+- **Automatic Resume**: Resume interrupted operations from where they left off
+- **Session Management**: Switch between different scraping sessions
+- **Checkpoint Listing**: View and manage existing checkpoints
+- **Automatic Cleanup**: Old checkpoints are automatically cleaned up
 
-# Belirli session'dan devam et
-python goodreads_scraper.py --resume --session-id session_12345
-```
+### 🎛️ Command Line Arguments
+- `--pages`: Specify how many pages to scrape (1-100)
+- `--delay`: Set delay between requests (1-10 seconds)
+- `--output`: Customize output file name
+- `--resume`: Resume from last checkpoint
+- `--session-id`: Resume from specific session
 
-📖 **Detaylı kullanım için**: [USAGE.md](USAGE.md) dosyasına bakın.
+📖 **For detailed usage**: See [USAGE.md](USAGE.md) file.
 
-## 📊 Veri Temizleme Süreci
+## 📊 Data Cleaning Process
 
-Script otomatik olarak şu temizleme işlemlerini yapar:
+The script automatically performs the following cleaning operations:
 
-1. **Eksik Başlık Kontrolü**: Başlığı olmayan kitapları kaldırır
-2. **Duplikat Temizleme**: Aynı kitap-yazar kombinasyonlarını kaldırır
-3. **Veri Tipi Dönüşümü**: Sayısal verileri int/float'a çevirir
-4. **Yeni Özellik Üretme**: Puan/Yorum oranı hesaplar
-5. **Sıralama**: Kitapları puan sayısına göre sıralar
+1. **Missing Title Check**: Removes books without titles
+2. **Duplicate Removal**: Removes identical book-author combinations
+3. **Data Type Conversion**: Converts numerical data to int/float
+4. **Feature Engineering**: Calculates rating/review ratio
+5. **Sorting**: Sorts books by rating count
 
-## 📈 Çıktı Formatı
+## 📈 Output Format
 
-CSV dosyası şu kolonları içerir:
+CSV file contains the following columns:
 
-| Kolon | Açıklama | Örnek |
-|-------|----------|--------|
-| `title` | Kitap başlığı | "To Kill a Mockingbird" |
-| `author` | Yazar adı | "Harper Lee" |
-| `average_rating` | Ortalama puan | 4.27 |
-| `ratings_count` | Toplam puan sayısı | 5234567 |
-| `reviews_count` | Yorum sayısı | 234567 |
-| `book_url` | Goodreads kitap linki | "https://www.goodreads.com/book/..." |
-| `rating_to_review_ratio` | Puan/Yorum oranı | 22.3 |
+| Column | Description | Example |
+|--------|-------------|---------|
+| `title` | Book title | "To Kill a Mockingbird" |
+| `author` | Author name | "Harper Lee" |
+| `average_rating` | Average rating | 4.27 |
+| `ratings_count` | Total rating count | 5234567 |
+| `reviews_count` | Review count | 234567 |
+| `book_url` | Goodreads book link | "https://www.goodreads.com/book/..." |
+| `rating_to_review_ratio` | Rating/Review ratio | 22.3 |
 
-## 🚦 Rate Limiting ve Etik Kullanım
+## 🚦 Rate Limiting and Ethical Usage
 
-Bu proje Goodreads'in robots.txt dosyasına uygun şekilde tasarlanmıştır:
+This project is designed to comply with Goodreads' robots.txt file:
 
-- ✅ Listopia sayfaları (`/list/show/`) robots.txt'de yasaklanmamış
-- ⏱️ İstekler arası 1.5 saniye bekleme süresi
-- 📝 Respectful User-Agent kullanımı
-- 🔍 Sadece halka açık listeleri hedefleme
+- ✅ Listopia pages (`/list/show/`) are not banned in robots.txt
+- ⏱️ 1.5-second delay between requests
+- 📝 Respectful User-Agent usage
+- 🔍 Targeting only public lists
 
-## 🔧 Karşılaşılan Zorluklar ve Çözümler
+## 🔧 Challenges Faced and Solutions
 
-### 1. **Pagination Problemi**
-**Problem**: Goodreads'in "Next" butonunu bulmak
-**Çözüm**: Çoklu CSS selector deneme ve regex kullanımı
+### 1. **Pagination Problem**
+**Problem**: Finding Goodreads' "Next" button
+**Solution**: Multiple CSS selector attempts and regex usage
 
-### 2. **Veri Formatı Tutarsızlıkları**  
-**Problem**: "1,234,567 ratings" formatındaki metinlerden sayı çıkarma
-**Çözüm**: Regex pattern'ları ve string temizleme fonksiyonları
+### 2. **Data Format Inconsistencies**  
+**Problem**: Extracting numbers from "1,234,567 ratings" format texts
+**Solution**: Regex patterns and string cleaning functions
 
 ### 3. **Request Blocking**
-**Problem**: Çok hızlı istek gönderme
-**Çözüm**: Rate limiting ve uygun User-Agent kullanımı
+**Problem**: Sending requests too quickly
+**Solution**: Rate limiting and appropriate User-Agent usage
 
-## 📋 Örnek Kullanım Senaryoları
+## 📋 Example Use Cases
 
-1. **Kitap Önerisi Algoritması**: En yüksek puan/yorum oranına sahip kitapları bulma
-2. **Yazar Analizi**: En popüler yazarları belirleme  
-3. **Trend Analizi**: Puan dağılımlarını inceleme
-4. **Veri Görselleştirme**: Matplotlib/Seaborn ile grafik oluşturma
+1. **Book Recommendation Algorithm**: Finding books with highest rating/review ratios
+2. **Author Analysis**: Identifying most popular authors  
+3. **Trend Analysis**: Examining rating distributions
+4. **Data Visualization**: Creating charts with Matplotlib/Seaborn
 
-## 🤝 Katkıda Bulunma
+## 🤝 Contributing
 
-1. Fork'layın
-2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
-4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
-5. Pull Request oluşturun
+1. Fork the project
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## ⚠️ Yasal Uyarılar
+## ⚠️ Legal Disclaimer
 
-- Bu proje yalnızca eğitim amaçlıdır
-- Goodreads'in kullanım şartlarına ve robots.txt dosyasına saygı gösterir
-- Veriler kişisel kullanım içindir, ticari amaçlarla kullanılmamalıdır
-- Web scraping yaparken her zaman hedef sitenin kurallarını kontrol edin
+- This project is for educational purposes only
+- Respects Goodreads' terms of service and robots.txt file
+- Data is for personal use, should not be used commercially
+- Always check the target site's rules when web scraping
 
-## 📞 İletişim
+## 📞 Contact
 
-Herhangi bir soru veya öneri için lütfen issue açın.
+Please open an issue for any questions or suggestions.
 
 ---
 
-**⭐ Bu proje size yardımcı olduysa, repository'yi yıldızlamayı unutmayın!**
+**⭐ If this project helped you, don't forget to star the repository!**
